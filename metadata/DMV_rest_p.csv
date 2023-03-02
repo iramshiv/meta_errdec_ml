@@ -1,0 +1,5 @@
+Table Name,Attribute Name,DMV,Frequency,Detecting Tool
+rest_p,city,?,275,SYN
+rest_p,phone,?,258,SYN
+rest_p,type,?,253,SYN
+rest_p,class,?,251,SYN

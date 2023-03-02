@@ -1,0 +1,6 @@
+RowId,Source,Flight,ScheduledDeparture,ActualDeparture,DepartureGate,ScheduledArrival,ActualArrival,ArrivalGate
+1,lllllllllll,UU-dddd-UUU-UUU,d:dd UU_ Ull dd,d:dd UU_ Ull dd,Udd,d:dd UU_ Ull dd,d:dd UU_ Ull dd,Udd
+2,llllll,UU-ddd-UUU-UUU,dddd-dd-dd d:dd UU,dddd-dd-dd dd:dd UU,dd,dddd-dd-dd d:dd UU,dddd-dd-dd dd:dd UU,dd
+3,llllllllll,UU-dd-UUU-UUU,dddd-dd-dd dd:dd UU,dddd-dd-dd d:dd UU,Ud,dddd-dd-dd dd:dd UU,d:dd UUUll dd,Ud
+4,lllllllllllll,UU-d-UUU-UUU,dddd-dd-dd dd:ddUU UUU,d:dd UUUll dd,d,dddd-dd-dd dd:ddUU UUU,dddd-dd-dd d:dd UU,ddU
+5,lllllllll,,dd:dd UU  Ull dd-Ull-dddd,dddd-dd-dd dd:ddUU UUU,ddU,dd:dd UU  Ull dd-Ull-dddd,dddd-dd-dd dd:ddUU UUU,d

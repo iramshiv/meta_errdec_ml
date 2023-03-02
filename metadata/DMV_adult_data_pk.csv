@@ -1,0 +1,15 @@
+Table Name,Attribute Name,DMV,Frequency,Detecting Tool
+adult_data_pk,D,9th,514,SYN
+adult_data_pk,F,Never-married,10683,SYN
+adult_data_pk,H,Not-in-family,8305,SYN
+adult_data_pk,K,0,29849,SYN
+adult_data_pk,L,0,31042,SYN
+adult_data_pk,N,?,583,SYN
+adult_data_pk,N,Outlying-US(Guam-USVI-etc),14,SYN
+adult_data_pk,N,Trinadad&Tobago,19,SYN
+adult_data_pk,B,?,1836,SYN
+adult_data_pk,G,?,1843,SYN
+adult_data_pk,K,99999,159,SYN
+adult_data_pk,A,90,43,OD
+adult_data_pk,K,11678,2,OD
+adult_data_pk,M,70,291,OD

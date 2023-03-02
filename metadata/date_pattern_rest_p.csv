@@ -1,0 +1,865 @@
+id,name,addr,city,phone,type,class
+0,sssss ssssss's ss sssssss,ddd s. ss sssssss sss.,sss sssssss,ddd/ddd-dddd,?,?
+1,sssss ssssss's ss sssssss,ddd s. ss sssssss ssss.,?,ddd-ddd-dddd,sssssssssss,d
+2,sss's ssssssssssss,ddddd sssssss ssss.,?,ddd/ddd-dddd,ssssssss,d
+3,sss's ssss,ddddd sssssss ssss.,ssssss ssss,?,sssss,d
+4,sssss sss-sss,ddd sssss ssssss ss.,?,ddd/ddd-dddd,sssssssssss,?
+5,sss-sss sssss,ddd sssss ssssss ss.,sss sss,ddd-ddd-dddd,sssssssssss,d
+6,ssss sssss,ddddd sssssss ssss.,sssssss ssss,ddd/ddd-dddd,ssssss,d
+7,ssss sssss,ddddd sssssss ssss.,sssssss ssss,ddd-ddd-dddd,ssssss ssssss,d
+8,sssssssss,ddd s. ss ssss sss.,sss sssssss,ddd/ddd-dddd,?,d
+9,sssssssss,ddd s. ss ssss sss.,sss sssssss,ddd-ddd-dddd,sssssssssss,?
+10,sssssss ss ssss,dddd ssss ss.,sssss ssssss,?,ssssss,d
+11,sssssss ss ssss,dddd ssss ss.,?,ddd-ddd-dddd,sssssss sss ssss,d
+12,ssssss,dddd sssssss sss.,?,?,sssssssssss,?
+13,ssssss,dddd sssssss sss.,sss sssssss,ddd-ddd-dddd,sssssssssss,d
+14,sssss,dddd ssssss ssss. ssss,?,ddd/ddd-dddd,ssssssss,d
+15,sssss ss sss ssssss,dddd ssssss ssss.,?,ddd-ddd-dddd,?,d
+16,sssssss,ddddd s. ssssss ss.,ssssss,ddd/ddd-dddd,?,?
+17,sssssss,ddddd s. ssssss ss.,ssssss,?,?,?
+18,sssss ss sss sssss,dddd ssssss sss,?,ddd/ddd-dddd,?,d
+19,sssss  sss,dddd ssssss sss,sssssss sssss,?,ssssssss (sssssssssss),d
+20,ssssssssss sssss,dddd s. sssssssss sss.,sss sssssss,ddd/ddd-dddd,sssss,dd
+21,sssss,dddd sssssssss sss.,sss sssss,ddd-ddd-dddd,ssssssss,dd
+22,s'sssssssss,ddd s. ss sssssss ssss.,sss sssssss,?,?,dd
+23,s'sssssssss,ddd s. ss sssssss ssss.,s. sssssssss,?,ssssss (sssssss),dd
+24,ss ssssssssss,dddd sssssss sss.,?,ddd/ddd-dddd,?,dd
+25,ss ssssssssss (sss sssssss),dddd sssssss sss.,sss sssssss,ddd-ddd-dddd,ssssss ssssss,dd
+26,sssssss ssssss,dss ss.,sss sssssss,ddd/ddd-dddd,?,?
+27,sssssss ssssss,dddd s. sssss ss.,sss sssssss,?,sssssss,dd
+28,sssssssss,ddd s. ss sssssss ssss.,?,ddd/ddd-dddd,sssss,dd
+29,sssssssss,ddd s. ss sssssss ssss.,?,?,sssssss,?
+30,sss ssss,dddd sssss ssssss ssss.,?,ddd/ddd-dddd,ssssssss,dd
+31,ssss  sss (sss sssssss),dddd sssss ssssss ssss.,s. sssssssss,ddd-ddd-dddd,sssssssssss,dd
+32,ssssss,dddd sssssss sss.,?,ddd/ddd-dddd,sssssssssss,dd
+33,ssssss,dddd sssssss sss.,sss sssssss,ddd-ddd-dddd,sssssssssss,dd
+34,ssssssss's sss ssssssss,dddd s. sssssss ss.,sss sssssss,ddd/ddd-dddd,ssssssss,?
+35,ssssssss sss ssssssss,dddd s. sssssss ss.,sssssssss,ddd-ddd-dddd,ssssssssss,dd
+36,sssss ssssss,ddddd sssssss ssss.,?,ddd/ddd-dddd,ssssss,dd
+37,sssss ssssss,ddddd sssssss ssss.,?,ddd-ddd-dddd,?,dd
+38,sss ss ssssssssss,ddd s. sssss ss.,sss sssssss,?,sssssss,dd
+39,sss ss ssssssssss,ddd s. sssss ss.,?,?,?,dd
+40,sssss,dddd ssss sss.,sss sssssss,ddd/ddd-dddd,sssssssssss,dd
+41,sssss (sss sssssss),dddd ssssss ssss.,s. sssssssss,?,sssssssssss,?
+42,sssssssss,dddd ssss ssss.,sssss ssssss,ddd/ddd-dddd,?,dd
+43,sssssssss,dddd ssss ssss.,sssss ssssss,?,sssssss,?
+44,ssssss ssss's sssssss sssssss sssssss,dd s. sssssss sss.,?,ddd/ddd-dddd,sssss,?
+45,ssssss ssss's,dd s. sssssss sss.,ssssssss,ddd-ddd-dddd,sssssss,dd
+46,dd ssss,dd s. ddss ss.,sss ssss,?,ssssssss,dd
+47,dd ssss,dd s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,?,dd
+48,sssssss,dd s. ddss ss.,sss ssss,?,?,dd
+49,sssssss,dd s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,?,?
+50,sssssss,dd s. ddss ss.,sss ssss,?,?,?
+51,sssssss,dd s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,ssssssss (sss),?
+52,ssss ssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,?,dd
+53,ssss ssss,ddd s. ddss ss.,?,ddd-ddd-dddd,ssssssssssss,dd
+54,ssss sss ssssssss,d s. ddss ss.,?,ddd/ddd-dddd,sssssssssss,dd
+55,ssss sss ssssssss,d s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,?,dd
+56,sssssss's,dddd ssssssss  sssssss ddss sss ddss sss.,sss ssss,ddd/ddd-dddd,?,dd
+57,sssssss's,dddd ssssssss,sss ssss ssss,ddd-ddd-dddd,sssssss,dd
+58,ssssssss ssss,ddd dss sss.  sssssss ddss sss ddss sss.,?,ddd/ddd-dddd,ssssssssssss,?
+59,ssssssss ssss,ddd sssssss sss.,sss ssss ssss,ddd-ddd-dddd,?,dd
+60,sssssssssss,d ssssssss ss.  ssss ssssss ss.,sss ssss,ddd/ddd-dddd,?,dd
+61,sssssssssss,d ssssssss ss.,sss ssss ssss,ddd-ddd-dddd,?,dd
+62,ssssss,dd s. ddss ss.,sss ssss,ddd/ddd-dddd,?,dd
+63,ssssss,dd s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,?,?
+64,sssss,ddd s. ddss ss.,?,ddd/ddd-dddd,sssss,dd
+65,sssss,ddd s. ddss ss.,sss ssss ssss,?,ssssss,dd
+66,sssssss,ddd s. ddss ss.,?,ddd/ddd-dddd,sssssss,?
+67,sssssss,ddd s. ddss ss.,?,?,sssssss,dd
+68,ssss sssssss sssss ssss,dd s. ddss ss.,sss ssss,ddd/ddd-dddd,?,dd
+69,ssss sssssss,dd s. ddss ss.,?,ddd-ddd-dddd,ssssssss (sss),?
+70,ssssss sss & sssss,dd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,?
+71,ssssss sss & sssss,dd s. ddss ss.,?,?,ssssssss (sss),dd
+72,ssssssss ssssss,dd s. ddss ss.  sssssss ssss sss. s sss ssssssss,sss ssss,ddd/ddd-dddd,ssssssss,dd
+73,ssssssss ssssss,dd s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,ssssssss (sss),?
+74,ssssss sssss,ddd s. ddss ss.,sss ssss,?,sss sssssssss,dd
+75,ssssss sssss,ddd s. ddss ss.,sss ssss ssss,?,?,?
+76,ss ss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,?,dd
+77,ss ss,ddd s. ddss ss.,?,ddd-ddd-dddd,ssssss ssssss,?
+78,ss sssssssss,dd s. ddss ss.,sss ssss,ddd/ddd-dddd,?,?
+79,ss sssssssss,dd s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,ssssss (sssssss),?
+80,ss ssss ssssss,dd s. ddss ss.  sssssss dss sss dss sss.,?,?,ssssss,dd
+81,ss ssss ssssss,dd s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,ssssss (sssssss),?
+82,ss sssssssss,ddd s. ddss ss.,?,ddd/ddd-dddd,?,dd
+83,ss sssssssss,ddd s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,sssssss,dd
+84,sss ssssssssss,ddd sssssss ssss s,?,ddd/ddd-dddd,?,dd
+85,sss ssssssssss,ddd s. ddss ss.,?,?,?,?
+86,ssssssssss,d s. ddss ss.,?,ddd/ddd-dddd,ssssssss,dd
+87,ssssssssss (sss ssss ssss),d s. ddss ss.,?,ddd-ddd-dddd,sssss,dd
+88,ssssss,ddd s. ddss ss.,?,?,?,?
+89,ssssss,ddd s. ddss ss.,?,ddd-ddd-dddd,ssssss (sssssss),dd
+90,sssssssss sssss ssss,dd s. ddss ss.,sss ssss,?,?,?
+91,sssssssss sssss ssss,dd s. ddss ss.,sss ssss ssss,?,sssssss,?
+92,sssss,ddd s. ddss ss.,?,ddd/ddd-dddd,ssssssss,?
+93,sssss,ddd s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,ssssssss (sss),dd
+94,ssss sssss,ddd dss sss.  sssssss ddss sss ddss sss.,sss ssss,?,ssssssss,?
+95,ssss sssss,ddd sssss sss.,sss ssss ssss,ddd-ddd-dddd,?,dd
+96,ss ssssss,dd ssss ss.  sss ssssss ss.,?,ddd/ddd-dddd,sssssss,dd
+97,ss ssssss,dd ssss ss.,?,?,sssssss,dd
+98,ssssssssss,ddd s. ssssssss  sssssss ssssss sss sssss sss.,?,ddd/ ddd-dddd,ssssss,dd
+99,ssssssssss,ddd s. ssssssss,sss ssss ssss,ddd-ddd-dddd,?,?
+100,ssssss,dd s. ddss ss.,sss ssss,ddd/ddd-dddd,sssssss,?
+101,ssssss,dd s. ddss ss.,sss ssss ssss,?,sssssss,dd
+102,ssss ssssss ssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,dd
+103,ssss ssssss ssss (sss ssss ssss),ddd s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,ssssssss (sss),dd
+104,ssssssssss,ddd s. ddss ss.,sss ssss,?,ssssss,?
+105,ssssssssss,ddd s. ddss ss.,?,ddd-ddd-dddd,sssssss,dd
+106,sssssssss,dd s. ddss ss.,sss ssss,ddd/ddd-dddd,sssssssssssss,?
+107,sssssssss,dd s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,?,?
+108,ssssss,dd sss. s ss dss ss.,sss ssss,ddd/ddd-dddd,sssssss,?
+109,ssssss,dd sss. s,sss ssss ssss,ddd-ddd-dddd,sssssss,?
+110,sssssss ssss,dd sssssssssss sssss,sss ssss,?,ss ddd/ddd-dddd ssssssss,dd
+111,sssssss ssss,dd sssssssssss sssss,sss ssss ssss,ddd-ddd-dddd,ssssssss (sss),?
+112,sssss ssss,d sssss ss. ss sss ssss sssss,ssssssss,ddd/ddd-dddd,ssssssss,dd
+113,sssss ssss,d sssss ss.,ssssssss,ddd-ddd-dddd,ssssssss (sss),dd
+114,sss ssssssss,ddd sssssss ssss s,?,ddd/ddd-dddd,sssssss,dd
+115,sss ssssssss,ddd sssssss ssss s.,?,ddd-ddd-dddd,?,dd
+116,ssssss ssssss ssss,ddd dss sss. ss ddss ss.,sss ssss,ddd/ddd-dddd,?,dd
+117,ssssss ssssss ssss,ddd ssssss sss.,sss ssss ssss,?,sssss,?
+118,ssssss,dd s. ddss ss.,?,ddd/ddd-dddd,sssss,dd
+119,ssssss,dd s. ddss ss.,?,ddd-ddd-dddd,ssssssss,dd
+120,ssss sss ssss,dd s. ddss ss.,sss ssss,?,sssss,dd
+121,ssss sss ssssss,ddd s. ddss ss.,?,?,sssssss,?
+122,ssss ss sss ssss,dddd dss sss. ss ddss ss.,sss ssss,?,ssssssss,dd
+123,ssss ss sss ssss,dddd sssss sss.,?,ddd-ddd-dddd,ssssssss (sss),?
+124,sssss & sssssssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,dd
+125,sssss & sssssssss,ddd sssss sss.,?,ddd-ddd-dddd,sssssssssss,dd
+126,ssssss ss sss sssss,ss sssssss ssss ss ddss ss.,sss ssss,ddd/ddd-dddd,?,dd
+127,ssssss ss sss sssss,sssssss ssss ssss,sss ssss ssss,?,ssssssss (sss),?
+128,sssss ssss's,ddd dss sss.  sssssss ddss sss ddss sss.,sss ssss,ddd/ddd-dddd,sssssssssssss,dd
+129,sssss ssss's,ddd sssss sss.,?,ddd-ddd-dddd,?,dd
+130,sssss ssssss ssss,dd s. ddss ss.,sss ssss,?,?,?
+131,sssss ssssss ssss,dd s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,ssssssss (sss),dd
+132,ssssss's,ddd s. ddss ss.,?,?,ssssssss,dd
+133,ssssss's ssss sss,ddd s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,sss,dd
+134,ssss's,dddd sss sssss ssss. s,sss sssss,ddd/ddd-dddd,sssss,dd
+135,ssss's,dddd sss sssss ssss. s.,sss sssss,ddd-ddd-dddd,sssssss,dd
+136,ssssss ssss,dddd sss sssss ssss. s,?,?,ssssssssssss,dd
+137,ssssss ssss (sss sssss),dddd sss sssss ssss. s.,sss sssss,ddd-ddd-dddd,?,dd
+138,ss ssssssssss,dddd s. ssssssss ss.,sss sssss,ddd/ddd-dddd,sssssssssss,dd
+139,ss ssssssssss ssssss,dddd ssssssss ss.,sss sssss,?,?,dd
+140,ssssss sssss,dddd sss sssss ssss. s,?,ddd/ddd-dddd,?,dd
+141,ssssss sssss,dddd sss sssss ssss. s.,sss sssss,ddd-ddd-dddd,?,dd
+142,ssssss ssssss ssssss,ddd s. sssssss ss.,?,ddd/ddd-dddd,sssssss,dd
+143,ssssss ssssss sssss,ddd s. sssssss ss.,?,ddd-ddd-dddd,sssssss sss,?
+144,sssss sssss,dddd sss sssss ssss. s,sss sssss,ddd/ddd-dddd,sssss ssssss,?
+145,sssss sssss  sss,dddd sss sssss ssss. s.,sss sssss,?,sssssssssss,?
+146,sssssssss,dddd s. ssssssss ss.,?,ddd/ddd-dddd,?,dd
+147,sssssssss  sss,dddd s. ssssssss ss.,sss sssss,?,sssssssssss,dd
+148,sssssss,dddd sssssssss ss.  sssssssss ssssss ssssssss ssssss,?,ddd/ddd-dddd,sssssss,?
+149,sssssss,dddd sssssssss ss. ss,?,ddd-ddd-dddd,sssssss,?
+150,sssssssssss,dddd ssssssss ss.  ssss sssssssss ss.,?,ddd/ddd-dddd,sssssssssssss,dd
+151,sssssssssss,dddd ssssssss ss.,sssssss,ddd-ddd-dddd,sssssssssss,dd
+152,ssss's,dddd ssssssss ssss,?,ddd/ddd-dddd,ssssssss,dd
+153,ssss's ssssssssss,dddd ssssssss ss. ss,?,ddd-ddd-dddd,?,?
+154,sssssssss ss ssss,dddd sssssssss ss.  sssss ssssss ssss  ssss ssssss ssssss,sssssss,ddd/ddd-dddd,ssssss,dd
+155,sssssssss ss ssss,dddd sssssssss ss.,sssssss,?,ssssss ssssss,dd
+156,ssssssss sssss,dddd ssssssss ssss,?,?,ssssssss,dd
+157,ssssssss sssss,dddd ssssssss ss.,sssssss,?,ssssssss (sss),dd
+158,ssssssssss,dddd ssssssss sss.,?,ddd/ddd-dddd,ssssss,?
+159,ssssssssss ssssssssss,dddd ssssssss sss.,sssssss,ddd-ddd-dddd,?,dd
+160,sssssssssss,d ssssssss ssssssss ss.,sssssss,?,ssssssss,dd
+161,sssssssssss,d ssssssss ssssssss ss.,sssssss,?,?,dd
+162,sssssss ssssss,dddd sssssssss ss.  sssssssss ssssss ssssssss ssssss,?,ddd/ddd-dddd,ssssssss,dd
+163,sssssss ssssss,dddd sssssssss ss.,sssssss,ddd-ddd-dddd,?,dd
+164,sssssssss sssssss sss,ddd s. sssss sssss ss.,sssssss,?,sssssssssssss,dd
+165,sssssssss sssssss sss  sss,ddd s. sssss sssss ss. ss,?,ddd-ddd-dddd,sssssssssss,dd
+166,sssss ss sssss,ddd ssssssss sss.  sss ssssssss ssss,?,ddd/ddd-dddd,sssss,dd
+167,sssss ss sssss,ddd ssssssss sss.,sssssss,ddd-ddd-dddd,ssssss,dd
+168,ssssss sssssss sssss,dddd s. ssssssss sss.,sssssss,ddd/ddd-dddd,sssssssss,dd
+169,ssssss sssssss sssss,dddd s. ssssssss sss.,sssssss,ddd-ddd-dddd,ssssssss,dd
+170,ss ssssss,dddd sssssssss ss.  sssssssss sssss sssssssssss,sssssss,ddd/ddd-dddd,?,dd
+171,ss ssssss,dddd sssssssss ss. ss,sssssss,ddd-ddd-dddd,?,dd
+172,ssss sss's sss ssss,ddd sssss ss ssss sss.,?,?,ssssssss,dd
+173,ssss sss's sss ssss,ddd sssss ss ssss sss.,?,?,ssssssss/ssss,?
+174,sssssss's ssss,ddd sssssssss ss.  ss ssssss ss.,sssssss,ddd/ddd-dddd,sssssssssss,?
+175,sssssss's ssss,ddd sssssssss ss.,sssssss,ddd-ddd-dddd,sssssssssss,dd
+176,ssss's sss ssss's,dddd s. sssss sssss ss.,sssssss,ddd/ddd-dddd,sssssssssssss,dd
+177,ssss's & ssss's,dddd s. sssss sssss ss.,sssssss,?,ssssssss (sss),?
+178,ssss  ssss-sssssss  ssssssss,dddd sssssssss ss.,?,ddd/ddd-dddd,sss dddd sssssssssssss,?
+179,ssss-sssssss ssss (ssssssss),dddd sssssssss ss. ss,?,ddd-ddd-dddd,ssssssss (sss),?
+180,ssssss ssss  ssss-sssssss  ssssssss,dddd sssssssss ss.,?,ddd/ddd-dddd,sssssssssssss,?
+181,ssss-sssssss ssssss ssss (ssssssss),dddd sssssssss ss. ss,sssssss,ddd-ddd-dddd,ssssssss (sss),dd
+182,ssssssssss  ssss-sssssss  sssssss,ddd sssssssss ss.,sssssss,ddd/ddd-dddd,sssssssssss,dd
+183,ssss-sssssss ssssssssss,ddd sssssssss ss.,?,ddd-ddd-dddd,ssssss (sssssss),dd
+184,ssssssss,s sssssssss ss.,sssssss,ddd/ddd-dddd,?,dd
+185,ssssssss,ddd-s sssssssss ss.,?,ddd-ddd-dddd,?,dd
+186,ssss ssss ssss,dd ddss ss.,sssssss,ddd/ddd-dddd,sssssss,dd
+187,ssss ssss ssss,dd ddss ss.,sssssss,?,?,dd
+188,sssss ssssssss,ddd sssssss ss.,sss sssssssss,ddd/ddd-dddd,ssssss,dd
+189,sssss ssssssss,ddd sssssss ss.,sss sssssssss,?,ssssss (sss),dd
+190,ssss,ddd ssssssssss ss.,sss sssssssss,?,?,?
+191,ssss,ddd ssssssssss ss.,?,?,ssssssss (sss),dd
+192,sssssssss,d sssssss ss.,sss sssssssss,?,ssssssss,dd
+193,sssssssss,d sssssss ss.,sss sssssssss,ddd-ddd-dddd,?,dd
+194,ssss ssssss,d ssssss ss.,sss sssssssss,ddd/ddd-dddd,ssssss,dd
+195,ssss ssssss,d ssssss ss.,?,?,ssssss ssssss,dd
+196,sssssss sssss,ddd ssssssss ss.,?,ddd/ddd-dddd,ssssssss,dd
+197,sssssss sssss,ddd ssssssss ss.,sss sssssssss,ddd-ddd-dddd,?,?
+198,ssss ssssss,ddd ssssssssss,sss sssssssss,ddd/ddd-dddd,ssssss,dd
+199,ssss ssssss,ddd sssss sssss ss.,sss sssssssss,?,sssssssssss,?
+200,sssss ss sss,ddd ssssss ss.,sss sssssssss,?,ssssss,ddd
+201,sssss ss sss,ddd ssssss ss.,sss sssssssss,ddd-ddd-dddd,ssssss (sss),ddd
+202,ssssssss,ddd dss ss.,sss sssssssss,ddd/ddd-dddd,ssssss,ddd
+203,ssssssss,ddd ssssss ss.,sss sssssssss,ddd-ddd-dddd,?,ddd
+204,sssssssss ssss,dd sssssssss ss.,sss sssssssss,?,ssssssss,ddd
+205,sssssssss ssss,dd sssssssss ss.,sss sssssssss,ddd-ddd-dddd,sssssssssss,?
+206,ssss ssss ssss sssss,dddd sssss ssss.,?,ddd/ddd-dddd,sssss,?
+207,ssss ssss ssss sssss,dddd sssss ssss.,?,ddd-ddd-dddd,ssss,?
+208,ss sssss,dddd ssss ss.,sss sssssssss,?,ssssss,?
+209,ss sssss,dddd ssss ss.,?,ddd-ddd-dddd,ssssss (sss),ddd
+210,ssss,ddd ssssss ss.,sss sssssssss,ddd/ddd-dddd,sssssssssssss,ddd
+211,ssss ssssssssss-sss-ssss,ddd ssssss ss.,sss sssssssss,?,sssssssssssss,?
+212,ssss's,ddd ssss ss.,sss sssssssss,ddd/ddd-dddd,ssssss,ddd
+213,ssss's,ddd ssss ss.,sss sssssssss,?,ssssss (sss),ddd
+214,ssssss sssss ssssss  ssssssss ssssssss,dddd ssss ss.,sss sssssssss,?,?,ddd
+215,ssssss,dddd ssss ss.,?,ddd-ddd-dddd,ssssssss,ddd
+216,sssssssss ssss,dddd ssssssss ss.,sss sssssssss,ddd/ddd-dddd,sssssssssssss,ddd
+217,sssssssss ssss,dddd ssssssss ss.,sss sssssssss,ddd-ddd-dddd,ssssssss (sss),ddd
+218,sssssss,ddd ssss ss.,?,ddd/ddd-dddd,ssssssss,ddd
+219,sssssss,ddd ssss ss.,?,?,sssssssssss,ddd
+220,ssss-sssssss ssssssssss sss ssssss ssss,ddd ssssssss ss.,sss sssssssss,ddd/ddd-dddd,?,?
+221,ssss-sssssss ssssss ssss (sss sssssssss),ddd ssssssss ss.,sss sssssssss,?,ssssss (sss),ddd
+222,ssss sssssss,ddd ssssssss sss.,sss sssssssss,ddd/ddd-dddd,sssssss,ddd
+223,ssss sssssss,ddd ssssssss sss.,sss sssssssss,ddd-ddd-dddd,sssssss,?
+224,sssssss's ssssssssss,dddd sssssss ssss ssssss,sss sssssss,ddd/ddd-dddd,sssssss,ddd
+225,ssssss ssssssssss,dddd ssssssss ssss.,sssssss sssss,ddd/ddd-dddd,ssssssss,ddd
+226,ssssssssss,ddddd sssssss sssss sss.,ssssss,?,ssssss,ddd
+227,ssssss ssssss,ddd s. sssss ss.,sss sssssss,ddd/ddd-dddd,sssssssssss,ddd
+228,ssssss sssss,dss ss.,?,ddd/ddd-dddd,sssssss,ddd
+229,ssssssss ssss,dss ss. sssssssss,sssss ssssss,ddd/ddd-dddd,ssssssss,ddd
+230,ss'ssss,ddd s. ss ssss sss.,sss sssssss,ddd/ddd-dddd,sssssss,?
+231,ss'sss sss,dddd ssssssss ssss.,sss sssssss,ddd/ddd-dddd,?,?
+232,ssss sssss,ddd s. sssss ss.,?,ddd/ddd-dddd,?,ddd
+233,ssssssssss sssss sssssss,ddd s. sssssss ss.,?,ddd/ddd-dddd,?,ddd
+234,ssssss's,ddd s. sssssss sss.,?,ddd/ddd-dddd.,ssssssss,ddd
+235,ssss,dss ss.,sss sssssss,?,?,ddd
+236,sss sss sss,ddd s. ssssss sss.,sss sssssss,ddd/ddd-dddd,?,?
+237,ssss ssss,ddd s. sssssssss ssss.,sss sssssss,ddd/ddd-dddd,?,ddd
+238,ssssssssss ssss,ddd s. ssssssss ssss.,sss sssssss,ddd/ddd-dddd,ssssss ssss,?
+239,ssssss ssss,dddd ssssssss ssss.,?,ddd/ddd-dddd,?,ddd
+240,ssss!,ddddd sssss ssssss ssss.,?,ddd/ddd-,ssss ssssssss,ddd
+241,sssss,dddd ssssssss ssss.,sssss ssssss,?,?,ddd
+242,ssss's,ddd s. ss sssssss ssss.,sss sssssss,?,ssssss,ddd
+243,sssssss ssss,ddd sssssss sss.,sss sssssss,?,sssssssssss,?
+244,sssssss,dddd sssssss sss.,?,?,?,?
+245,ss sssssss's,ddd s. ss sssssss,?,?,?,ddd
+246,ss sssss,dddd s. sssssss sss.,sss sssssss,ddd/ddd-dddd,?,?
+247,sssssssss's,dddd ssss ss.,sssss ssssss,ddd/ddd-dddd,ssssssss,ddd
+248,sssssssss's,d ssss ddddd sssssss sssss sss. ss ssssss ssss.,sssssss sssssssss,ddd/ddd-dddd,?,?
+249,ssss ssss ssss,dddd sssssss ssss.,?,ddd/ddd-dddd,ssssssss,ddd
+250,sssss's sss & ssssssss sssss,dddd sss. ss sss sssss,sss sssssss,ddd/ddd-dddd,sssssss,?
+251,ss sssssss ssssss ssssssss,ddd s. sssssss ss.,sss sssssss,ddd/ddd-dddd,sssssss,ddd
+252,ssss sssss's sssss,ddddd s. ssss ssss.,sss sssssss,ddd/ddd-dddd,ssssss ssss,?
+253,sssssss's ssss,ddd s. sssssss sssss,sss sssssss,ddd/ddd-dddd,?,ddd
+254,sssss's,ddd ssssss ss.,sss sssssss,?,sssssssssss,ddd
+255,ssss,dddd ssssss ssss.,sss sssssss,?,sssss,ddd
+256,ss ssssssss,dddd sssssss ssss.,?,ddd/ddd-dddd,?,ddd
+257,ss ssss,dddd ssssss ssss.,?,ddd/ddd-dddd,ssssss,ddd
+258,ssssss's sssssssss,dddd sss sssss ssss.,sss sssssss,ddd/ddd-dddd,?,ddd
+259,sss sss sssssss ssssssssss,ddd s. ssssss ss.,sss sssssss,?,sssss,ddd
+260,ssssss's,dddd sssssss sss.,?,?,ssssssss,ddd
+261,ssss 's' ss's,ddd s. sssssss ss.,sss sssssss,ddd/ddd-dddd,ssssssss,ddd
+262,ssssss,ddd s. ssssssss ss.,?,?,?,ddd
+263,sssss ssssss,dddd sssss sss.,?,ddd/ddd-dddd,?,ddd
+264,sssssss,ddddd ssssssss ssss.,sss sssssss,ddd/ddd-dddd,?,?
+265,sssssss ssssss sss,dss ss.,sss sssssss,?,?,ddd
+266,ssss's,ddddd sssssssss ss.,ssssss ssss,?,ssssssss,ddd
+267,sssss sssssssss,dddd s. sssss ss.,sss sssssss,ddd/ddd-dddd,sssssssssss,ddd
+268,sssss,ddddd sssssss ssss.,sssssss ssss,ddd/ddd-dddd,?,ddd
+269,sssss,ddd s. ssssss ss.,?,ddd/ddd-dddd,sssssss,ddd
+270,ss's sss sss sssss,ddd s. sssssss ss.,sss sssssss,ddd/ddd-dddd,?,?
+271,ssss,dss ss. sssssssss,sssss ssssss,ddd/ddd-dddd,sssssss,?
+272,ssssssssss ssssssss,ddd s. sss sssss ss.,sss sssssss,?,sssss,ddd
+273,ssssss's sssss ss sssssss 's' sssssss,dddd s. sssss ss.,sss sssssss,?,ssssssss,ddd
+274,sssssss ss ssss,dddd ssss ss.,sss sssssss,ddd/ddd-dddd,?,?
+275,ssss,dss ss.,?,ddd/ddd-dddd,?,ddd
+276,ssssssss,dddd sssssss ssss.,sss sssssss,ddd/ddd-dddd,ssssssss,?
+277,ssssss sssss,dddd sssssss sss.,?,ddd/ddd-dddd,sssssss,ddd
+278,sss ssssssss,ddd s. ssssss ss.,sss sssssss,ddd/ddd-dddd,sssss,ddd
+279,sssss ssss's,dddd sssssss sss.,?,ddd/ddd-dddd,sssss,ddd
+280,sss ss sss,dddd sssss sssss ss.,sss sssssss,ddd/ddd-dddd,?,ddd
+281,ssssss sss's,dddd ssssssss ssss.,sss sssssss,ddd/ddd-dddd,sssss,ddd
+282,ssss,dddd sssss sssssssss sss.,sss sssss,ddd/ddd-dddd,ssssssss,?
+283,ssss sssss ssss,dd s. ssssss ssss.,?,ddd/ddd-dddd,?,?
+284,dd ssss,dd ssss ss.  sssssss ssssss sss ssss ss.,sss ssss,ddd/ddd-dddd,sssss,ddd
+285,d sssss ssssss,d sssss ss.,?,ddd/ddd-dddd,ssssssss,?
+286,ssssssss,ddd dss sss. ss ddss ss.,sss ssss,ddd/ddd-dddd,ssssss,ddd
+287,sssssssss,ddd s. dd ss.  sssssss dss sss dss ssss.,sss ssss,?,?,ddd
+288,sss,ddd ssssssss ss ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+289,sssss,ddd s. ddss ss.,sss ssss,ddd/ ddd-dddd,sssssss,ddd
+290,sssss's sss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+291,ssssssssss sssss,d ssssss sssssss sssss ss ddss ss.,?,ddd/ddd-dddd,?,?
+292,ssssssss sssss,d ssss sss. ss ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,?
+293,sssss ssssss,ddd s. ddss ss.  sssssss dss sss dss ssss.,sss ssss,ddd/ddd-dddd,?,ddd
+294,sssssss,ddd ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+295,ssssss's,ddd s. sssssss ss.  sss ssssssss ss.,sss ssss,ddd/ddd-dddd,?,ddd
+296,ss ssssssss,ddd-ddd sssss ss. sssss sssssssss ssssss,sss ssss,?,sssss,ddd
+297,sss sssss,dddd dss sss.  sssssss ddss sss ddss sss.,?,ddd/ddd-dddd,sssssssssssss,?
+298,ssssssss,ddd s. ddss ss.,?,ddd/ddd-dddd,sssssss,ddd
+299,sss ssssss's,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+300,sss sss,ddd dss sss.  sssssss ddss sss ddss sss.,?,?,?,ddd
+301,sssss's,ddd dss sss.  sssssss ddss sss ddss sss.,sss ssss,ddd/ddd-dddd,ssssssss,?
+302,ssss sssss,dd dss sss.  ssss dss ss.,sss ssss,ddd/ddd-dddd,?,ddd
+303,ssss,dd s. ddss ss.,sss ssss,ddd/ddd-dddd,sssssssssssss,?
+304,ssssssss,dddds dss sss.  sssssss ddss sss ddss sss.,sss ssss,?,?,ddd
+305,ssssssss,ddd s. ddss ss.  sss dss sss.,sss ssss,ddd/ddd-dddd,?,ddd
+306,ssssssss sss-s-s,ddd ssssss ss. ss sssssssss ss.,?,?,ssssssss,?
+307,sssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,sssssss,ddd
+308,ssssss ssss sssss  ssss ssssssssss sss ss ssss,dd s. ddss ss.  sssssss dss sss dss ssss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+309,sd,ddd sssssss ss.  ssss ssssssssss ss.,sss ssss,?,?,ddd
+310,ss,ddd s. ddss ss.  sssssss ssss sss. s sss sssssssss sss.,?,?,ssssss,ddd
+311,ssss ssssss,dddd dss sss.  sssssss ddss sss ddss sss.,sss ssss,?,ssssss sss,ddd
+312,ssss ssssssss,ddd sssssss ssss s,?,ddd/ddd-dddd,ssssss,ddd
+313,ssss ss sssssss,dd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssss sss,?
+314,ssss ssssssssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssss,ddd
+315,ssss ssssss,d s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssss,ddd
+316,ssss ssssss,ddd ssss sss.  sssssss ddss ss. sss ssssssssss sss.,?,?,?,ddd
+317,ssss sss,ddd s. dss ss. ss sssssss ss.,sss ssss,?,?,ddd
+318,sssss sssss,dd sssssssss ss.  sssssss sssssss sss sssssss sss.,sss ssss,ddd/ddd-dddd,?,?
+319,sssss ssss'sssssss,dd sssssssss sss.,?,?,ssssss sss,ddd
+320,sssss ssss,ddd ssssssss ss.  sssssss sssssss sss ssssssss sss.,sss ssss,ddd/ddd-dddd,ssssss,?
+321,sssss ssssss,ddd sssssssss ss.  sssssss dss sss ssssssss sss.,sss ssss,ddd/ddd-dddd,ssssss sss,ddd
+322,sssss ssss,ddd ssssss ss. ss ssssssss,sss ssss,ddd/ddd-dddd,?,ddd
+323,sssss sssssss,dd sssss ss. ss ssssssss ss.,?,ddd/ddd-dddd,ssssss sss,ddd
+324,sssss sssss ssssssssss,d s. ddss ss.,sss ssss,?,sssssss,?
+325,ssssssss ssssss,ddd ssssssssss ss.  ssss sssss ss.,?,?,ssssss,ddd
+326,sssssss's sssss,ddd dss sss. ss ddss ss.,sss ssss,ddd/ddd-dddd,sssssss,?
+327,ssss ss sssss,ddd sssssss ss.  sssssss sssssss sss ssssss sss.,sss ssss,ddd/ddd-dddd,?,ddd
+328,ssssssssss sssss sssss & sssssss sss,dd ssssss ss.  sssssss ssssss sss sssss sss.,sss ssss,ddd/ddd-dddd,sssss,ddd
+329,ssss ssssssssss,dd sssssssss ss.  sssssss s. sssssss sss ssssssss sss.,sss ssss,ddd/ddd-dddd,ssssss,?
+330,sssss,ddd s. ddss ss.,sss ssss,?,sssss,ddd
+331,sssss sssss,dd s. ddss ss.,sss ssss,?,ssssssss,ddd
+332,ssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssss,?
+333,ssss sssss,dd s. ddss ss.,?,?,?,?
+334,ssssssss ssssss,ddss sss.,?,ddd/ddd-dddd,ssssss sss,?
+335,sssssss ssss,dddd dss sss.  sssssss ddss sss ddss sss.,sss ssss,?,ssssss sss,ddd
+336,sssssss ssss,ddd dss sss. ss ddss ss.,sss ssss,ddd/ddd-dddd,ssssss sss,ddd
+337,ss ssss,ddd ssssssss ss.  sssssss sssss sss ssssss sss.,sss ssss,?,sssssss,ddd
+338,ssss & ssssss,ddd ssssss ss.,?,ddd/ddd-dddd,ssssss sss,?
+339,ssss,ddd s. ssssssss  ssss sssss ss.,sss ssss,ddd/ddd-dddd,?,ddd
+340,sss ss ssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssss,?
+341,sssss,ddd dss sss. ss ddss ss.,sss ssss,?,sssssss,ddd
+342,sssss ssss ssss,ddd sssss ss.  sssssss s. ssssssss sss ssssss ss.,sss ssss,ddd/ddd-dddd,ssssssss,?
+343,ss sssss's,ddd s. ssssssss  sssssss ssssssss sss sssss sss.,?,?,sssssss,ddd
+344,sssss's,dddd dss sss. ss dddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,?
+345,ssssss sssss,d s. ddss ss.,sss ssss,ddd/ddd-dddd,sssss,ddd
+346,sssss's,dddd ssssssss  sssssss ddss sss ddss sss.,sss ssss,?,ssssssss,?
+347,sssssssss ssss,dddd dss sss. ss ddss ss.,sss ssss,ddd/ddd-dddd,sssss,ddd
+348,s. ssss sssss ssssssssss,dd ssssssssss ss.  ssss ssss ss.,sss ssss,ddd/ddd-dddd,sssssss,ddd
+349,sssss,ddd s. ssssssss ss sssss ss.,?,?,ssssss,ddd
+350,sssssss,dd s. ddss ss.,sss ssss,?,?,ddd
+351,sssss sssss sssss sssss,dd s. ddss ss.,?,ddd/ddd-dddd,ssssssss,ddd
+352,ssss ssssss ssss,ddd dss sss.  sssssss ddss sss ddss sss.,?,?,ssssssss,ddd
+353,ssssssss's sssss ssss,dddd ssssssss  sssssss ddss sss ddss sss.,sss ssss,ddd/ddd-dddd,sssssss,?
+354,sssssssss,ddd ssssssss sss.  sssssss ddss sss ddss sss.,sss ssss,?,ssssssss,?
+355,sssss,dd dss sss.  sssssss dss sss dss sss.,sss ssss,?,ssssssss,ddd
+356,ssssss sssss,dd s. ddss ss.,sss ssss,ddd/ddd-dddd,sssssss,ddd
+357,sssss ss ssss,ddd s. ddss ss.,sss ssss,?,ssssss sss,ddd
+358,sssssss,dd ssss ddss ss.  sssssss dss sss dss ssss.,sss ssss,?,ssssssss,?
+359,sssssssss,d s. ddss ss.,sss ssss,ddd/ddd-dddd,sssssss,ddd
+360,ssssssss ssssss,dd sssss ss. ss sssss ss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+361,ssssss sssss,ddd dss sss. ss ddss ss.,?,ddd/ddd-dddd,?,ddd
+362,ssssss sssss ssss,dddd ssssssss ss ddss ss.,?,ddd/ddd-dddd,ssssss sss,ddd
+363,sssss sss,ddd s. ddss ss.  sss dss sss.,sss ssss,ddd/ddd-dddd,sssssss,?
+364,ssssssss ssss,ddd ssssssss sss.  sssssss ddss sss ddss sss.,sss ssss,ddd/ddd-dddd,sssss,ddd
+365,ssssssss's,ddd sssssssss sss. ss ddss ss.,sss ssss,ddd/ddd-dddd,?,ddd
+366,sssssssss's,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,?
+367,ssssss's,dd ssssss ss.,sss ssss,ddd/ddd-dddd,?,ddd
+368,ssssss,ddd s. ddss ss.  sssssss dss sss dss ssss.,sss ssss,ddd/ddd-dddd,sssssss,ddd
+369,ssssss,dd dd dss sss.  sssssss dss sss dss sss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+370,ssssss sssssss,dd s. ssssssss ss sssssssss ss.,sss ssss,ddd/ ddd-dddd,sssss,ddd
+371,sssss ssssss,ddd ssssssss ss.  sssssss s. dss sss ssssssss sss.,sss ssss,?,sssssss,ddd
+372,sssssss,ddd s. ddss ss.  ss sss sssss sssss sssss,?,ddd/ddd-dddd,ssssssss,ddd
+373,ssss ssss ssss,ddd s. ddss ss.,sss ssss,?,ssssssss,ddd
+374,ss-ssss ssssssssss sss ssssss,dddd dss sss. ss ddss ss.,sss ssss,?,?,ddd
+375,ssss,dd ssssssss ss.  sssssss ssssssss sss s. dss ss.,?,?,?,ddd
+376,ssssss sssss ssss,d sssss sssssssss ssssss,sss ssss,?,ssssssss,?
+377,s ssssss,ddd s. ddss ss.  sssssss sssssssss sss ssss ssss.,sss ssss,?,sssssss,ddd
+378,ss sssssss,ddd ssssssss ss.  sssssss sssss sss ssssss sss.,sss ssss,?,sssssss,ddd
+379,ss ssss,ddd s. ddss ss.,sss ssss,?,?,ddd
+380,ssss sssss,ddd ssssss ss.  ssss s. ssssssss,sss ssss,?,sssss ssssssss,ddd
+381,sssssssss,ddd sssssssss ss.  sssssss dss ss. sss sssss ss.,sss ssss,ddd/ddd-dddd,sssss,ddd
+382,ssssssss ssss,dd s. dss ss.  sssssss dss sss dss ssss.,sss ssss,ddd/ ddd-dddd,ssssss sss,ddd
+383,sssssss,dd s. ddss ss.,sss ssss,?,sssss ssssssss,?
+384,ssss sssssss,dd s. ddss ss.,?,?,?,ddd
+385,sssss ss sssss,dd s. ddss ss.,sss ssss,ddd/ddd-dddd,sssss,ddd
+386,sssss ssss's,ddd s. ddss ss.  sssssss dss sss dss ssss.,?,ddd/ddd-dddd,sssss,?
+387,sss sssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+388,ssssss sssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,?,?
+389,s'ssssssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,?,ddd
+390,s'sssssss,dddd dss sss.  sssssss ddss sss ddss sss.,?,?,ssssss sssssss,ddd
+391,s'sssssss ss ssss,ddd s. dss ss.  sssssss s. ddss sss ssss sss.,?,ddd/ddd-dddd,?,?
+392,s'sss,ddd sssssssss ss.  ssss sssss ss.,sss ssss,ddd/ddd-dddd,ssssss,ddd
+393,ss sssssss,d s. ddss ss.,?,ddd/ddd-dddd,ssssss,ddd
+394,sssss ssssssssss,ddd dss sss.  sssssss ddss sss ddss sss.,sss ssss,?,sssssss,?
+395,ssssssss ssssssssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,?,ddd
+396,sssss,ddd s. ssssssss ss ssssssss ss.,sss ssss,ddd/ddd-dddd,ssssss sssssss,ddd
+397,ss sssssssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,?,ddd
+398,ss ssssssss,ddd s. ddss ss.,sss ssss,ddd/ ddd-dddd,?,ddd
+399,ss sssss,dd sssssssss ss.  sssssss sssssss sss ssssss sss.,sss ssss,ddd/ddd-dddd,ssssss sss,ddd
+400,ss ssssss,dd sssssssss ss.  ssss ssssss ss.,sss ssss,?,ssssss,ddd
+401,ss sssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,sssssss,ddd
+402,ss ssssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,?
+403,ss ssssssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssss,ddd
+404,ss ssssss,ddd ssssssss sss.  sssssss ddss sss ddss sss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+405,sss ssssss,ddd ssss sss. s  sssssss ddss sss ddss sss.,sss ssss,ddd/ddd-dddd,ssssss,?
+406,sssssss ssssss,dd s. ddss ss.,sss ssss,?,ssssssss,?
+407,ssss,dd ssss ddss ss.  sssssss dss sss dss sss.,?,ddd/ddd-dddd,ssssssss,ddd
+408,sssss ssssss,dd sssss ss.  sssssss sssssss ss. sss s. ssssssss,?,ddd/ddd-dddd,ss ddd/ddd-dddd ssssssss,ddd
+409,sss ssss,dddd ssssssss  sssssss ddss sss ddss sss.,?,ddd/ddd-dddd,sssssss,ddd
+410,ssss ssssss,ddd ssssssss sss.  sssssss ddss sss ddss sss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+411,ssssss s ssss,ddd dss sss. ss ddss ss.,sss ssss,?,sssssss,ddd
+412,sssssssss ssss,dddd dss sss.  sssssss ddss sss ddss sss.,?,ddd/ddd-dddd,ssssssss,?
+413,ssssss ssssss,ddd s. ddss ss.  sssssss dss sss dss ssss.,sss ssss,ddd/ddd-dddd,sssss,?
+414,sssssss,ddd s. ddss ss.  sssssss dss sss dss ssss.,?,ddd/ddd-dddd,ssssss,ddd
+415,sssssss ssssssssss,dd s. ddss ss.  sssssss dss sss. sss ssssssssss ss.,sss ssss,ddd/ddd-dddd,ssssss sss,ddd
+416,sssss,ddd ssssss ss.  sssssss sssssss sss ssssss sss.,sss ssss,?,?,?
+417,sssssss's,dddd dss sss. ss ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+418,sssssss ssssss,dd s. ddss ss.,sss ssss,?,sssss,ddd
+419,sssss ssss sss ssssss sss,ddd s. ddss ss.,?,?,?,?
+420,ssssss sss,dd s. ddss ss.,?,ddd/ddd-dddd,ssssssss,?
+421,sssssss,dddd dss sss.   sssssss ddss sss ddss sss.,sss ssss,?,sssss,ddd
+422,ssssss's,ddd dss sss. ss ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+423,ssssss ssss,ddd s. ddss ss.  ssss dss sss.,?,ddd/ddd-dddd,ssssssss,ddd
+424,sss ssss sss ssss ssss sss sssss,dd s. ddss ss.,sss ssss,ddd/ ddd-dddd,sssss,ddd
+425,sss ssss ssssssssss,dd d/d ssssss ss ssssss ss.,sss ssss,?,sssss,ddd
+426,sssssss,d s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssss sss,ddd
+427,sssss,ddd s. ssssssss ss ssssss ss.,?,?,ssssssss,ddd
+428,ssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,sssssss,ddd
+429,sssssss ss sssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,sssssss,?
+430,sssss,dd s. ddss ss.,?,ddd/ddd-dddd,?,ddd
+431,ssssssss,ddd sssssssss ss.  sssssss sssss sss ssssss sss.,sss ssss,ddd/ddd-dddd,?,ddd
+432,sssss,ddd s. ddss. ss.,sss ssss,ddd/ddd-dddd,?,ddd
+433,sssss,dddd dss sss.  ss ddss ss.,?,ddd/ddd-dddd,ssssss sssssss,?
+434,sssssss sssssssssss,dd s. ddss ss.,sss ssss,?,sssssss,?
+435,ssssss,ddd ssss sss. s ss ddss ss.,?,ddd/ddd-dddd,?,?
+436,sssssss sssss,ddd ssss sss.  sssssss ddss sss ddss sss.,?,?,ssssss,ddd
+437,sss & ssssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,?,?
+438,ssssss ssss,ddd ssssss ss.  sssssss ssssss sss ssssss sss.,sss ssss,ddd/ddd-dddd,?,?
+439,ssssssssss,dddd dss sss.  sssssss ddss sss ddss sss.,sss ssss,ddd/ddd-dddd,ssssss sssssss,ddd
+440,ssssss sssssssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+441,sssssss,ddd s. ddss ss.  sss dss sss.,?,ddd/ ddd-dddd,?,?
+442,sssssss ssss,ddd sssssssss sss.  sssssss ddss sss ddss sss.,?,ddd/ddd-dddd,ssssssss,ddd
+443,ssss sssss,dd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+444,ssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,?,ddd
+445,sss sssss,ddd s. ddss ss.,?,?,sssssss ssssssss,?
+446,ssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,sssssss,?
+447,ssssssss,dds sssss ss. s  sssssss ddss sss ddss sss.,?,?,?,?
+448,sssssssss s. s,ddd s. dss ss.  sssssss dss sss. sss sss. s,sss ssss,ddd/ddd-dddd,sssssssssss,ddd
+449,ssss ssssssss,dddd dss sss. ss ddss ss.,sss ssss,ddd/ddd-dddd,?,ddd
+450,ssss's sssss,ddd s. ddss ss.,sss ssss,?,?,ddd
+451,s.s.s.s,ddd ssssssss ss.  sssssss ssssss sss sssss sss.,sss ssss,ddd/ddd-dddd,sssssss,ddd
+452,sss sssssss's,dd ssssss ss.,sss ssss,?,sssssss,?
+453,sssss's sssssssss sssss sssss,ddd ssssssss ss. ss ssssssss ss.,sss ssss,?,ssss ssssssss,ddd
+454,sss ssssss,dd s. ddss ss.,sss ssss,ddd/ddd-dddd,?,?
+455,ssss ssssssss,dddd sssssss sss.  sssssss ddss sss ddss sss.,?,ddd/ddd-dddd,ssssss sss,ddd
+456,ssssssss's sssssss,ddd sssssssss sss.  sssssss ddss sss ddss sss.,?,ddd/ddd-dddd,ssssssss,ddd
+457,sss sssss,dd s. ddss ss.,sss ssss,ddd/ddd-dddd,?,ddd
+458,sssssssssss,d ddd s. ddss ss.,?,ddd/ddd-dddd,ssssssss,ddd
+459,sssssss ssssssss ssss sss sss,ddd ssss sss. ss ddss ss.,?,ddd/ddd-dddd,ssssssss,?
+460,ssssss,dd s. ddss ss.,sss ssss,?,ssssssss,ddd
+461,sssss,dd s. ddss ss.,sss ssss,ddd/ ddd-dddd,sssss,ddd
+462,sssss ssssssss sssss,dddd sssssss sss.  ssss ddss ss.,sss ssss,ddd/ddd-dddd,sssssss,ddd
+463,ssssss ssssss sssssss ssssssssss & sss,dd ssssss ss. ss sssssssss ss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+464,sssss ssss,ddd dss sss.  sssssss ddss sss ddss sss.,?,ddd/ddd-dddd,ssssssssssss,ddd
+465,ssssssss,ddd sssssssss sss.  sssssss ddss sss ddss sss.,sss ssss,ddd/ddd-dddd,sssssss,ddd
+466,sssss's'ssss ssss,dd ssss ss. ss sssss ss.,sss ssss,ddd/ddd-dddd,sssss,ddd
+467,s sssss,ddd ssssss ss. ss ssssss ss.,?,?,?,ddd
+468,ssss sssssssss,dd s. ddss ss.,sss ssss,ddd/ddd-dddd,sssss,?
+469,ssssss,ddd dss sss. ss ddss ss.,sss ssss,ddd/ ddd-dddd,ssssssss,?
+470,ssssss's,ddd dss sss.  sssssss dss sss dss sss.,sss ssss,?,?,ddd
+471,sssssss,ddd s. dddss ss.  sssssss sssssssss sss sssssssssss ssss.,sss ssss,ddd/ddd-dddd,sssssssssss,?
+472,sss ssssss sss,ddd dss sss. ss ddss ss.,?,?,ssssss sss,?
+473,sss ssssssss ssss,dddd ssssssss ss ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+474,sssssssss ssss'ssss,ddd dss sss.  sssssss ddss sss ddss sss.,sss ssss,ddd/ddd-dddd,sssssss,?
+475,sssssssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,sssssss,?
+476,sssssss sssss,ddd sssssssss ss.  ssss ssssssss ss.,?,ddd/ddd-dddd,?,?
+477,sssss ssss,ddd s. ddss ss.  sssssss sssssssss sss dss ssss.,sss ssss,ddd/ddd-dddd,ssssss sss,ddd
+478,sss ssss,dd s. ddss ss.,sss ssss,ddd/ddd-dddd,sssss,?
+479,sssssss sssssss,ddd dss sss.  sssssss ddss sss ddss sss.,sss ssss,ddd/ddd-dddd,ssssss sssssss,ddd
+480,sss sss sss,ddd s. ddss ss.,sss ssss,?,ssssssss,ddd
+481,sssssss's sssssssssss,ddd s. ddss ss.  ssss dss sss.,sss ssss,ddd/ddd-dddd,ssssss sss,ddd
+482,sssssss,dd ssssss ss. ss ddss ss.,sss ssss,?,ssssssss,ddd
+483,ssssss's ssss,dd ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,sssss ssssssss,ddd
+484,sssss & sssss's,dd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,?
+485,ssss,ddd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,ddd
+486,sssss ssss,ddd s. ddss ss.,?,?,ssssssss,?
+487,ssss,ddss ssssss ssssssssss dd s. ddss ss.,sss ssss,ddd/ddd-dddd,ssssssss,?
+488,sssss,ddd dss sss.  sssssss ddss sss ddss sss.,?,ddd/ddd-dddd,?,ddd
+489,sss ssssss,dd sssss ss. s ss ddss ss.,sss ssss,ddd/ddd-dddd,sss ddd/ddd-dddd sssss,ddd
+490,sss,dd ssssss ss.  sssssss ssssssss sss ssssss ss.,?,ddd/ddd-dddd,ssssssss,ddd
+491,sssss,ddd sssss ss ssss sss.,sssssss,ddd/ddd-dddd,sssssssssssss,?
+492,sssss's ssssssss ssssss,ddd ssssss ssssss ssss ss. ss.,?,ddd/ddd-dddd,ssssssss,?
+493,sssss's ssss ssssss,dddd sssssss ss.,sssssss,?,sssss,?
+494,ssssssss,dddd ssssssss ss.  ssss sssss ss sssssssss ss.,?,?,ssssssss,ddd
+495,sssssss ssss ssssss,ddd sssss ss.,sssssss,ddd/ddd-dddd,?,?
+496,sssssss's ss ssssssss,ddd s. sssss sssss ssss,sssssss,ddd/ddd-dddd,sssssssssss,?
+497,sssssssss's,dddd sssssssss ss.  ssssss sssss,sssssss,ddd/ddd-dddd,sssssss,ddd
+498,ssssssss,dddd sssssssss ss.,sssssss,ddd/ddd-dddd,sssssssssssss,ddd
+499,ssss sssssssssss,dddd sssss ssssss ssss.  ssssssss,sssssss,ddd/ddd--dddd,ssssssss,ddd
+500,sssssss's,dddd s. ssssssss sss.,sssssss,ddd/ddd-dddd,sssssss,ddd
+501,ssssss,dddd sssssssss ss.  sssss sssss,?,ddd/ddd-dddd,?,ddd
+502,ssss sssss,dd ssss sssss,sssssss,ddd/ddd-dddd,sssssssssssss,ddd
+503,ssss ssss,dd  ssssssss ssssssss ssss ss sss ssssss ssssss ssss.,sssssss,?,sssssssss,ddd
+504,sssssssss ssssssssss,dddd ssssssss ssssss ss.,sssssss,ddd/ddd-dddd,?,ddd
+505,sssss's ssss sss sssss  ssssssss,dddd sssssssss ss.,sssssss,?,?,?
+506,sssss's ssss sss sssss,sssssssssss sssssssssss ssss  sssssssssss sssssss,sssssss,?,sssssssssss,ddd
+507,sss ssss's sss sssss,dddd ssssssss sss.  ssss ssssssss ssssss ss.,sssssss,ddd/ddd-dddd,?,ddd
+508,ssssss sssssss ssss ssss,ddd sssssssss ss.  ss dss ss.,?,ddd/ddd-dddd,?,ddd
+509,ssss ssss. sss-s-s,dddd sssss ssssss ssss.  ss ssssss sss.  ssssssss,sssssss,ddd/ddd-dddd,?,ddd
+510,sssssssssss sssss,dddd ssssss sssss ss.,sssssss,ddd/ddd-dddd,ssssssss,?
+511,sss's sssssss,ddd sssssssss ssssss sss.  ss sssssssssssss ssss.,sssssss,?,sssss,ddd
+512,ssssssss sss,dddd sssssssss ss.  sssssssss ssssss sssssssssss,sssssss,?,sssssssssssss,ddd
+513,ssssssss,dddd sssssssss ss.  sssss sssss,sssssss,?,sssss,ddd
+514,ss ssssss ss sssssss ssssssss ss.,sssssss sss/ssssss sssss ss sssssss  ssssssss,sssssss,ddd/ddd-dddd,sssssss,ddd
+515,ssssss ssssssss,s ssssss sss.  ssssssssss sssss  sssssssss,sssssss,ddd/ddd-dddd,sssss,ddd
+516,ssssssssss ssssssss,dddd sssssss ss.  sssss sssssss sssss  sssss sssssss,sssssss,ddd/ddd-dddd,ssssssss,?
+517,ssss ss,dddd sssssssss ss.,sssssss,?,?,?
+518,sssss sssssssssss ssssss,dddd s. ssssssss sss.,?,ddd/ddd-dddd,?,ddd
+519,ssssssss's sssssssss,dddd sssss ss.,sssssss,?,?,?
+520,ss ssss ssssssss ss.,ssss sssss  ssssss ssss sssssssss ssss  ssssssss,sssssss,ddd/ddd-dddd,sssssss,ddd
+521,ssssssssss's: s sssss sss,ddd ssssssss sss.  ssss sssssss ss.,?,ddd/ddd-dddd,ssssss,?
+522,sssssssss,dddd sssssssss ss.,?,ddd/ddd-dddd,?,ddd
+523,ssssssss sssssss,ddd sssssssss ss.  ss ssssss sss.,sssssss,ddd/ddd-dddd,?,ddd
+524,ssssss,ddd sssss ss.,?,ddd/ddd-dddd,?,ddd
+525,s.s.'s ssssss sssssss & ssss sss,ddd s. ssssssss sss.,?,?,ssssssss,ddd
+526,sss sssss,dd ssss sss.,?,ddd/ddd-dddd,ssssssss,ddd
+527,ss sss ss,dddd ssssss sss.,sssssss,ddd/ddd-dddd,sssss,ddd
+528,ssss sssss sss ssss,dddd sssssssss ssss.  ssssssss,?,ddd/ddd-dddd,sssss,ddd
+529,sssss ssss sssssss,dddd ssssssss sss.,?,ddd/ddd-dddd,ssssssss,ddd
+530,sssss ss ssssss,dddd ssssssss ssssss ss.,sssssss,?,ssssss,ddd
+531,ssssssss's ssss ssss sss ssssss sss,dddd sssssssssss ss.  ssssssss,sssssss,ddd/ddd-dddd,?,?
+532,sssssss ssss,dddd ssssssss ssssss ss.,sssssss,ddd/ddd-dddd,?,ddd
+533,sssss ss sss sssssss,ddd s. sssssssss ss.,sssssss,ddd/ddd-dddd,?,ddd
+534,ssssss,dddd sssssssss ss.,sssssss,ddd/ddd-dddd,sssssssssss,ddd
+535,sssssss's,dddd s. ssssssss,?,ddd/ddd-dddd,sssssss,?
+536,sssss's sss sssssss,dddd sss sssss ssss. s,sss sssss,?,sssssss,ddd
+537,ssssss ssssss,dddd ssssssss ss.,sss sssss,ddd/ddd-dddd,sssss,?
+538,ssssssss's ssss ss sss ssss,dddd ssssss ss. ss ssssssss ss.,sss sssss,ddd/ddd-dddd,sssssss,ddd
+539,sssssssss's,dddd sss sssss ssss. s,?,ddd/ddd-dddd,sssssss,?
+540,ssssss's ssssss ssss,ddd sssssss ss.,sss sssss,ddd/ddd-dddd,ssssss sssss/ssssss,ddd
+541,ssssss,dddd sss sssss ssss. s,sss sssss,ddd/ddd-dddd,?,ddd
+542,sssssss,dddd sssssss sss.,sss sssss,?,ssssssss,?
+543,sssss's sssss,dddd sss sssss ssss. s,sss sssss,ddd/ddd-dddd,ssssss sssss/ssssss,ddd
+544,ssss ssssssss,dddd s. ssssssss ss.,?,?,ssssssss,ddd
+545,ssss ssss,dddd sss sssss ssss. s,sss sssss,ddd/ddd-dddd,ssssss sssss/ssssss,ddd
+546,sssssssss's,dddd s. ssssssss ssss.,sss sssss,ddd/ddd-dddd,?,?
+547,ssssssss sssss,dddd s. ssssssss ss.,sss sssss,?,?,ddd
+548,ssssss sssss sssss sssss,d ssss ss.,?,?,?,ddd
+549,ssssss ssssss,dddd sss sssss ssss. s,?,?,sssssss,ddd
+550,sssssss sssss,dddd sss sssss ssss. s,sss sssss,ddd/ddd-dddd,sssss,ddd
+551,sssss,dddd s. ssssss sss.,sss sssss,ddd/ddd-dddd,sssssss,?
+552,ssssss ssssss sssss,ddd s. sssssss ss.,?,ddd/ddd-dddd,?,?
+553,ssssss sssss,ddd s. ssssss sss.,sss sssss,ddd/ddd-dddd,sssss ssssss,ddd
+554,ssssss sssssss's,ddd s. sssssss ss.,?,ddd/ddd-dddd,sssss,ddd
+555,ssssssss sssss,dddd s. ssssssss ss.,sss sssss,ddd/ddd-dddd,?,?
+556,sssssssss's sssssss sssssss,dddd sss sssss ssss. s,sss sssss,?,sssssss,ddd
+557,ssss's sssss,dddd s. sssssss sss.,sss sssss,ddd/ddd-dddd,ssssss sssss/ssssss,ddd
+558,ssssss,dddd sss sssss ssss. s,sss sssss,ddd/ddd-dddd,?,ddd
+559,ssssssssssss,ddd s. ssssss sss.,?,?,sssssssssss,ddd
+560,sssss's sssss,dddd sss sssss ssss. s,sss sssss,ddd/ddd-dddd,ssssss sssss/ssssss,ddd
+561,sss sssssssss,dddd sss sssss ssss. s,sss sssss,ddd/ddd-dddd,?,ddd
+562,ssssssss,dddd s. ssssss sss.,sss sssss,ddd/ddd-dddd,sssssss,ddd
+563,ssss sssssss's,dddd s. ssssssss ss.,?,ddd/ddd-dddd,sssssss,?
+564,sssss's,dddd ssssssss ss.,sss sssss,ddd/ddd-dddd,sssss ssssss,ddd
+565,dddd,dddd ssssss ss.,?,?,ssssssss,?
+566,ssssssssss,dddd ssssssssss ss.,sss sssssssss,?,?,?
+567,ssssssss's,ddd s'sssssss ss.,sss sssssssss,?,sss sss sssssssss,ddd
+568,ssssssss,dddd sssss ss.,?,?,?,?
+569,ssssss ssss,ddd sssssss ss.,?,?,ssssss,ddd
+570,sss,dd ssss ss.,sss sssssssss,?,?,ddd
+571,sssss,ddd ssssss ss.,sss sssssssss,ddd/ddd-dddd,?,ddd
+572,ssss ssssssss,ddd sssssssss ss.,sss sssssssss,ddd/ddd-dddd,sssssss,ddd
+573,ssss sssssss,dddd ssssssss ss.,sss sssssssss,ddd/ddd-dddd,sssssss,?
+574,ssss sssssss,dddd ssssssss ss.,sss sssssssss,ddd/ddd-dddd,sssssss/sssss ssssssss/sssssss,ddd
+575,ssssssssss ssssssss sssssss,ddd ssss ss.,sss sssssssss,ddd/ddd-dddd,?,ddd
+576,ssss's ssssss,dddd ssssss ss.,?,ddd/ddd-dddd,sssssss,ddd
+577,sssss,dddd ssssss ss.,?,ddd/ddd-dddd,ssssssss,ddd
+578,ssssss,dss sss ssssss sss.,?,ddd/ddd-dddd,sssssss/sssss ssssssss/sssssss,ddd
+579,sssssss ssss,ddd sssssss ss.,sss sssssssss,?,ssssssss,ddd
+580,sss sssss,ddd ssssssss,sss sssssssss,ddd/ddd-dddd,ssssss,?
+581,sss,ddd ssssss ss.,?,ddd/ddd-dddd,sssss sss ssssss sssssss,ddd
+582,sss ssss sssss,dddd sssssss ss.,sss sssssssss,ddd/ddd-dddd,ssssssss,ddd
+583,ssssss sssss,ssssss sss sss ssssssssss sss.,sss sssssssss,?,sss sss sssssssss,?
+584,sssssss's,sssssssssss ss.,sss sssssssss,ddd/ddd-dddd,?,ddd
+585,sssss ssss sssss ssssss,ddd sssss ss.,?,ddd/ddd-dddd,ssssssss,?
+586,ssssss,ssss. s ssss sssss,?,ddd/ddd-dddd,ssssssssss,ddd
+587,ssssss sssssss,d sssssssssss ssssss,sss sssssssss,ddd/ddd-dddd,sssss,ddd
+588,ssssss',dddd sss ssss sss.,?,ddd/ddd-dddd,sssss ssssss,ddd
+589,sssss ssssss's,ddd sssssss ss.,sss sssssssss,ddd/ddd-dddd,ssssssss,ddd
+590,sssss ssssss sssss,ddd sssss ss.,sss sssssssss,ddd/ddd-dddd,sssssss,ddd
+591,sssssss,ddd ssssssss,sss sssssssss,?,?,ddd
+592,ssss ssss ssssss ssssss,dddd sssss ssss.,?,ddd/ddd-dddd,?,ddd
+593,ssss ssss sssss,dddd sssssss ss.,sss sssssssss,ddd/ddd-dddd,sssss,?
+594,ssss ssssss ssssss,dddd ssss ss.,?,?,sssssss,ddd
+595,ss sssssss ssss's sssss,dddd sssssss ss.,sss sssssssss,ddd/ddd-dddd,sssssss,ddd
+596,ssss's sssss & ssss sssss,dddd sssssss ss.,?,?,?,ddd
+597,ssss's,ddd ssssssssss ss.,sss sssssssss,?,?,?
+598,ssssss sssss,dddd sssss ssss.,sss sssssssss,ddd/ddd-dddd,sssss,ddd
+599,sssss's,ddd dss sss.,?,ddd/ddd-dddd,,ddd
+600,ssssss's,ddd ssssss ss.,sss sssssssss,ddd/ddd-dddd,?,ddd
+601,sss-ss. ssssssss ssssss sssss,d sss ssssssssss ss.  ss ssssss ss.,sss sssssssss,?,sssss,?
+602,s'sssssss sss sssss,ddd ssssssss sss.,?,ddd/ddd-dddd,?,ddd
+603,ss sssssss,ddd ssss ss.,sss sssssssss,?,ssssss,ddd
+604,ss ssssss,ddd sssssss ss.,?,ddd/ddd-dddd,?,ddd
+605,sssssssss ssss,ddd sssss ss.,sss sssssssss,ddd/ddd-dddd,?,ddd
+606,ssssss,dddd sssssss ss.,sss sssssssss,?,sssss,ddd
+607,ssssssss,ddd sssss ss.,?,?,sssss sss ssssss sssssss,ddd
+608,sssssssss & ssssss's,sssssssssss ss.,sss sssssssss,ddd/ddd-dddd,sssssss,ddd
+609,ssssssssss,ddd ssssssssss ss.,?,ddd/ddd-dddd,ssssssssss,?
+610,sssss's,dddd ssssssss ss.,sss sssssssss,ddd/ddd-dddd,?,?
+611,sssss sssss,dddd sssssss ss.,?,?,sssss,ddd
+612,sss ssssss,d ssssss ss.,sss sssssssss,ddd/ddd-dddd,ssssssss,?
+613,ssssssss,dddd ssssssss ss.,sss sssssssss,ddd/ddd-dddd,sssssss,ddd
+614,sssssss sss sssssss sssss,ddd ssss ss.,?,ddd/ddd-dddd,ssssss,?
+615,sssss s'ssss,ddd ssssssssss ss.,sss sssssssss,ddd/ddd-dddd,sssssss,?
+616,ssss s ssss,dddd sssssss ss.,?,?,sssssss,ddd
+617,ssssss,dddd sssssss ss.,sss sssssssss,ddd/ddd-dddd,ssssss,ddd
+618,sssss's,dddd sssss ss.,sss sssssssss,ddd/ddd-dddd,?,ddd
+619,s&s ssssss,ddd s ssssss ss.,sss sssssssss,ddd/ddd-dddd,ss ddd/ddd-dddd sssss,?
+620,sssssss,ddd ssssssssss ss.,sss sssssssss,ddd/ddd-dddd,ssssssss,?
+621,ssssss,d sssssss ss.,sss sssssssss,ddd/ddd-dddd,?,ddd
+622,ssssss,dddd ssss ss.,?,ddd/ddd-dddd,?,ddd
+623,sssss's ssssss,ddd ssssss ss.,?,ddd/ddd-dddd,?,?
+624,sssss ssss ssss,ddd sssss ssss,?,ddd/ddd-dddd,ssssss,?
+625,sssssssss sssssssssss,d,sss sssssssss,ddd/ddd-dddd,sssssssssssss,ddd
+626,sssss,ddd sssssss sssss,?,ddd/ddd-dddd,?,?
+627,sssss ssss,ddd sss ssss sss.,?,?,ssssssss,ddd
+628,ssssssss's ssss,dddd dss sss.,?,ddd/ddd-dddd,sssss sss ssssss sssssss,ddd
+629,sssssss ssss,dddd sssss ssss.,?,ddd/ddd-dddd,sssss,?
+630,sssssssssss,ddd sssss ss.,sss sssssssss,ddd/ddd-dddd,?,ddd
+631,ssssss sssss,ddd ssssssssss ss.,sss sssssssss,ddd/ddd-dddd,sssssss,ddd
+632,sss sssssss,dddd ssssssssss ss.,?,ddd/ddd-dddd,ssssss,ddd
+633,ssssss,ddd sssss ss.,sss sssssssss,ddd/ddd-dddd,sssss,ddd
+634,sss sssss,dddd sssss ssss.,sss sssssssss,?,sssss,ddd
+635,sssssss,ddd ssssssssss ss.,sss sssssssss,?,?,ddd
+636,sssssss sssss sss,dddd ssssssss ss.,sss sssssssss,ddd/ddd-dddd,sssssss,ddd
+637,sssssss ssssssssss,ddd ssssss ssss sss.,sss sssssssss,ddd/ddd-dddd,sssssss,ddd
+638,sssss ssssss,dddd ssssssss ss.,sss sssssssss,ddd/ddd-dddd,?,ddd
+639,ss ssss,ddd sssss ss.,sss sssssssss,ddd/ddd-dddd,?,?
+640,ssss ssss,ddd sssssss ss.,sss sssssssss,ddd/ddd-dddd,sssss,ddd
+641,ssss sssssss,dddd dss sss.,sss sssssssss,ddd/ddd-dddd,sssss sss ssssss sssssss,ddd
+642,ssss sssssss ssssss,dddd ssss ss.,sss sssssssss,ddd/ddd-dddd,?,ddd
+643,ssssssss,dddd ssss ss.,?,?,sssssss/sssss ssssssss/sssssss,ddd
+644,ssss ssss & sssss,dddd ssssss ss.,sss sssssssss,?,sssssssssssss,ddd
+645,sssss sss  sss,ddddd s. ssss ssss.,ssss ss,ddd-ddd-dddd,ssssssss,ddd
+646,sssss sssss,dddd ssssssss ssss.,?,ddd-ddd-dddd,ssssss sssss,?
+647,ssss sssss,dddd ssssss ss.,?,ddd-ddd-dddd,sssssss,?
+648,sssssssss  sss,dddd ssssss sssss ssssss ssss.,sssssss sssss,ddd-ddd-dddd,?,?
+649,ssssss's ssssss,dddd sssss ss. sssssssss,sssss ssssss,ddd-ddd-dddd,?,ddd
+650,sssssss's,ddd s. sssss ss.,?,?,?,?
+651,ssssss dd,dd s. ssssss sss.,ssssssss,?,sssssssssss,ddd
+652,sssss's ssss,ddddd sssssssss sss.,?,?,sssss,?
+653,ssssssss ssssss ssss,dddd ssssssss sss,sssssss sssss,?,ssssss sssss,ddd
+654,sssssss sssss ssssss ssss,dddd sssssssss sss. s.,ssssssss,ddd-ddd-dddd,sssssssssss,?
+655,sssss's,dddd sssssssss sss.,sss sssss,ddd-ddd-dddd,sssssss,ddd
+656,ssss 'dds,ddd sssssss ssss.,ssssss,ddd-ddd-dddd,ssssssss,ddd
+657,ssss sssss,dddd ssssss sssss ssssss ssss.,?,ddd-ddd-dddd,?,?
+658,sssssss's,dddd s. sssss ss.,ss,?,?,?
+659,ssss sssssss,dddd sss,sssssss sssss,ddd-ddd-dddd,ssssssss,ddd
+660,sssssssss,dddd s. sss sssssss ssss.,?,ddd-ddd-dddd,?,?
+661,sss sssssss's,dddd ssssssss ssss.,ssssssss,ddd-ddd-dddd,sssssss,?
+662,ssss's,dddd ssssss ssss.,s. sssssssss,ddd-ddd-dddd,?,ddd
+663,sssssss ssss,dddd sssssss sss.,ssssssss,?,?,ddd
+664,sssss ssss sss ssss,dddd ssssssss ssss.,ssss ss,?,?,ddd
+665,sssss sss  sss,dddd s. sssss ss.,ss,ddd-ddd-dddd,sssss/ssssss,ddd
+666,sssssssss sssss ssssss ssss,dddd ssssssss sss.,sssssssss,ddd-ddd-dddd,ssssss sssss,ddd
+667,ssss ssss,ddddd d/d ssssssss ssss.,?,ddd-ddd-dddd,ssssssssss,ddd
+668,sss's ssssss ssssssssss,dddd sssssss ssss.,ss,ddd-ddd-dddd,?,ddd
+669,sssssss,ddd sssss ssssss ssss,?,ddd-ddd-dddd,sssssssssss,ddd
+670,ssss ssssss's sssssss sssssss,dddd sssss sssss ssss,?,?,sss ssss,ddd
+671,sss's,dddd sssss ssssss ssss.,?,ddd-ddd-dddd,ssssssss (sss),ddd
+672,ssss s'ssssss,ddddd s. ssss ssss.,ssss ss,?,ssssss sssss,?
+673,sssssss's ssssssss,dddd s. sssssssss ssss.,ssssss ssss,ddd-ddd-dddd,?,ddd
+674,ssssss sss's ssssssss ssssssssss,dddd ssss sssss ssss.,?,ddd-ddd-dddd,ssssssss/ssss,ddd
+675,ssssss sssssss (ss),dddd sssssss sss.,ss,ddd-ddd-dddd,ssssssss,?
+676,ssssss ssssss,dddd ssssss sss.,?,?,sssssss,?
+677,ssssss ssss,dddd s. sssss ss.,ss,?,?,ddd
+678,sss sss sss,dddd s. sssssss ssss.,ss,?,sssssss,ddd
+679,ss ssssssss,ddddd ssssss sssss ssssss ssss.,sssssss ssss,ddd-ddd-dddd,ssssss (sss),ddd
+680,ss sssss (ss),ddddd sss,?,ddd-ddd-dddd,sssssss,ddd
+681,ss ssssssss ss sssssssss,dddd s. sssss,ss. sssss sss.,?,sssssss/sss-sss,ddd
+682,ssssss's,ddd s. ssssssss ss.,?,?,?,ddd
+683,sssss ssssss,ddddd ssssssss ssss ssss.,ssssssss sssssss,ddd-ddd-dddd,?,?
+684,ssss ssssss  sss,ddddd s. ssss ssss.,?,?,?,ddd
+685,ssss's ssssss & ssssssss sss,ddd s. sssssss sss.,ss,?,ssssssss,ddd
+686,ssssss's,ddss ssssss sssss dd ddss,ss. sssssss sssss,?,ssssssss,ddd
+687,sssssss's ssss,ddddd ssssssssss ssss.,ssssss sss sss,ddd-ddd-dddd,ssssssss,ddd
+688,sssssss's (sss sssssss),dddd sssss ss.,?,ddd-ddd-dddd,?,ddd
+689,sssssss,dddd s. sssss ss.,?,ddd-ddd-dddd,ssssss sssss,ddd
+690,ss ssssss ssssss ssss,dddd sssssss sss.,ss,ddd-ddd-dddd,ssssssssss,ddd
+691,ssssssss ss.,ddddd sssssss ssss.,ssssss,ddd-ddd-dddd,sssss,ddd
+692,sssss ssss ssss,dddd sssss ssss ssss.,?,ddd-ddd-dddd,ssssssss,ddd
+693,sssss ssss,ddd s. ssssssss ssss.,ssssssss ssss,ddd-ddd-dddd,?,ddd
+694,ssssssss ssssss ssssss,ddd s. ssssssss ss. ssssssss,?,?,ssssss,ddd
+695,sssssss sssss,ddd s. ssssss ssss.,ssssssss,ddd-ddd-dddd,sssssssssss,ddd
+696,sss sss,ddd ssssssss,sssssssss,ddd-ddd-dddd,?,ddd
+697,ssss's ssssss sssss ssss,ddd s. ss ssss sss.,ss,ddd-ddd-dddd,sss ssss,ddd
+698,sssssss sss,dddd s. sssss sss.,sssssss,ddd-ddd-dddd,sssssss,?
+699,s-dd,ddd s. sssss ss.,?,?,ssssssss,ddd
+700,sss's,dddd ssss ssss.,?,ddd-ddd-dddd,?,ddd
+701,sssss's sss ssss,ddddd sssssss ssss.,ssssss,ddd-ddd-dddd,sss ssss,?
+702,ssss's (ss),dd s. ssss ssss sss.,?,ddd-ddd-dddd,?,ddd
+703,sssssss's sssssss,dddd sss,ssss sssss,ddd-ddd-dddd,ssssssssss,ddd
+704,ssss's sssss sssss sssss (sss sssssss),ddd s. sssssss ss.,?,ddd-ddd-dddd,?,ddd
+705,sssss,dddd sssssss ss. s.,?,ddd-ddd-dddd,?,ddd
+706,sssss ssssss,ddddd sssssss ssss.,ssssss ssss,ddd-ddd-dddd,ssssssss,ddd
+707,sssss ssss ssss,dddd sssssss sss.,?,?,?,ddd
+708,sssss,ddddd sss sssssss ssss.,?,?,ssssss sssss,ddd
+709,sssss's,dddd sssssss ssss.,ss,ddd-ddd-dddd,ssssssssss,?
+710,sssss ssss's sssssss sssss,dddd ssssssss sss.,sssssssss sssss,?,ssssss,?
+711,sssss sssss,ddd s. sssss sss.,sss sssssss,?,sssssss,ddd
+712,ssssss sssssss,dddd s. ssssssss ss.,ssssssss,ddd-ddd-dddd,?,ddd
+713,ssssss sssss sssss,ddd sssss sss.,?,ddd-ddd-dddd,ssssss,ddd
+714,sssssss,dd s. ddss ss.,?,?,ssssssss (sss),?
+715,sssss's ssssssss,dd sss. s,?,ddd-ddd-dddd,sssssss,?
+716,ssss sss sssss,ddd sssssssss sss.,sss ssss ssss,ddd-ddd-dddd,?,?
+717,ssssss ssssss,ddd s. ssssss ss.,sss ssss ssss,ddd-ddd-dddd,ssssssssss,ddd
+718,ssssss sssss sssssss,ddd ssssssss ss.,sss ssss ssss,ddd-ddd-dddd,?,ddd
+719,ssssss ss sssss,dd s. ssssss ss.,sss ssss ssss,?,sssssss,ddd
+720,ssssss,dd s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,ssssss,?
+721,ss's ssssssssssss,ddd sssss sss.,sss ssss ssss,?,ssssss,ddd
+722,ssssss ssss,ddd s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,ssssss,ddd
+723,sssss ssssss,dd-dd ddss ss.,?,ddd-ddd-dddd,sssss,ddd
+724,ssss ssssss ss sss,ddd sssssssss sss.,?,ddd-ddd-dddd,ssssssss,?
+725,ssss's ssssss,dddd ssssssss,sss ssss ssss,?,sss ssss,ddd
+726,ss ssssss,dd s. sssss ss.,sss ssss ssss,?,?,?
+727,sssssss sssss,dd-dd ddss ss.,?,ddd-ddd-dddd,?,ddd
+728,sss's ssssssss,d ssss ss.,?,ddd-ddd-dddd,?,ddd
+729,ssss's ssssssss,dd s. ddss ss.,sss ssss ssss,?,sssss,ddd
+730,ssssss & ssss,ddd ssssss ss.,sss ssss ssss,?,sss-sssss,ddd
+731,ssss,ddd ssssss sss.,?,ddd-ddd-dddd,?,ddd
+732,ssssss sssss,dss ss.,sss ssss ssss,ddd-ddd-dddd,ssssssss,ddd
+733,ss sssssss,dddd ssssssss,?,ddd-ddd-dddd,sssss,ddd
+734,ss ssssssssss,d s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,?,ddd
+735,ssssssssss sssss,dds sssssss sss.,ssssssss,?,ssss,?
+736,ssssssss's,dd ssssss ss.,sss ssss ssss,ddd-ddd-dddd,?,ddd
+737,ssssss's ssssss ssss,ddd ssssss ss.,sss ssss ssss,?,sssss,ddd
+738,sssssssss-sss,dd s. ddss ss.,?,?,ssssssss,ddd
+739,ssssss ssss-ssss,ddd ssssssss ss.,sss ssss ssss,ddd-ddd-dddd,ssssss,ddd
+740,sssssss (ss),ddd sssssssss sss.,sss ssss ssss,ddd-ddd-dddd,?,?
+741,sssssssss,ddd ssssssss sss.,?,?,ssssss sssssss,?
+742,ssss,ddd ssssss ss.,sss ssss ssss,ddd-ddd-dddd,?,ddd
+743,sss ss ss ssss  ssss,dd ssssss ss.,sss ssss ssss,ddd-ddd-dddd,sssssssssss,?
+744,ssssss sss,sssss sssss,sss ssss ssss,ddd-ddd-dddd,sssssss,ddd
+745,ssss,ddd ssssss sss.,sss ssss ssss,ddd-ddd-dddd,?,ddd
+746,ssss sss,ddd ssssss sss.,sss ssss ssss,ddd-ddd-dddd,sssssssssss,ddd
+747,sssss's sssss,dd sss ssssss ss.,ssssssss,ddd-ddd-dddd,sssss,?
+748,sssss sssss sssss sssss,ddd ssssssss,ssssssss,ddd-ddd-dddd,sssssssssss,ddd
+749,ssss ss sssss,ddd s. sssss ss.,sss ssss ssss,?,?,ddd
+750,sss's ssssss ssss,ddd sssss sss.,sss ssss ssss,?,sssssss,ddd
+751,ssssssss's,dddd sssssss sss.,sss ssss ssss,ddd-ddd-dddd,ssssssss,ddd
+752,ssssss sssss sssss,ddd s. ddss ss.,?,ddd-ddd-dddd,sssssssssss,ddd
+753,sssss ss ssss ssss,d-dd ddss sss.,ssssss,ddd-ddd-dddd,sss,ddd
+754,ssssssss,dd s. ddss ss.,sss ssss ssss,?,ssssssss,ddd
+755,ssssss's,ddd sssss sss.,sss ssss ssss,?,?,?
+756,ssssssss sssss sssssss,dddd ssss sss.,?,ddd-ddd-dddd,sssssss,ddd
+757,ssssssss sssssss,dddd sssss sss.,sss ssss ssss,ddd-ddd-dddd,?,ddd
+758,ssssss's,dd ssssssss ss.,ssssss,?,?,ddd
+759,ssss sssss ssss,ddd ssssss ss.,sss ssss ssss,ddd-ddd-dddd,ssss,?
+760,ssssssss ssssssssss,ddd ssssss ss.,?,ddd-ddd-dddd,ssss,ddd
+761,sssssss,ddd ssssss sss.,?,ddd-ddd-dddd,sssssssss,?
+762,ssssssss sssssss,ddd sssss sss.,?,ddd-ddd-dddd,sssssss,ddd
+763,sssssss ss sss sssss,dddss ss.,?,?,ssssssss,ddd
+764,sssssssss's sssss,ddd s. ddss ss.,?,ddd-ddd-dddd,?,ddd
+765,ssss,ddd s. ddss ss.,sss ssss ssss,ddd-ddd-dddd,?,?
+766,ssssss,ddd ssssss sss.,?,ddd-ddd-dddd,?,?
+767,sssss's ssssss ssssssssss,ddd s. dss ss.,?,?,?,?
+768,sssssssss sss ssss,dddd sss sssss ssss. s.,sss sssss,ddd-ddd-dddd,sssssssssss,?
+769,sssss's ss sss sss,dddd s. ssssssss ss.,sss sssss,ddd-ddd-dddd,?,?
+770,ssssss's sss sssssss ssss sssss,dddd sss sssss ssss. s.,sss sssss,ddd-ddd-dddd,sssssss,?
+771,sssss ssssssssss & ssssss,dddd s. ssssssss ss.,sss sssss,ddd-ddd-dddd,?,ddd
+772,ssss's ssssss,ddd s. sssssss ss.,sss sssss,?,sssssssssss,ddd
+773,ssssss sssss's,dddd sss sssss ssss. s.,?,?,sssss,ddd
+774,sssssssss sssssssss,dddd s. ssssss sss.,?,?,?,ddd
+775,sssssss's (sss sssss),dddd sss sssss ssss. s.,sss sssss,?,?,ddd
+776,sssss sssss,dddd sss sssss ssss. s.,sss sssss,ddd-ddd-dddd,ssssss (sss),?
+777,ssssssss,dddd sss sssss ssss. s.,sss sssss,?,sssssss,ddd
+778,ssssss's ss sssssss (sss sssss),dddd sss sssss ssss. s.,sss sssss,?,sssssssssss,?
+779,sssss sssss's,dddd ssssssss ss.,sss sssss,ddd-ddd-dddd,sssssss,ddd
+780,sssss's ssssssssss,ddd ssssssssss ssssss ss.,?,ddd-ddd-dddd,?,ddd
+781,sssss (sss sssss),dddd sss sssss ssss. s.,sss sssss,ddd-ddd-dddd,sssssssssss,ddd
+782,ssssssssss  sss,ddd s. sssssss ss.,sss sssss,ddd-ddd-dddd,sssssssssss,ddd
+783,sssssss's,ddd sssssss ss.,sss sssss,ddd-ddd-dddd,sssssss,ddd
+784,ssssssss ssssss,dddd sss sssss ssss. s.,sss sssss,?,?,ddd
+785,sss ssss,dddd sss sssss ssss. s.,sss sssss,ddd-ddd-dddd,sssssss,?
+786,ddd ssss,ddd s. sssss sssss ss.,sssssss,ddd-ddd-dddd,?,ddd
+787,ssss's ss sss sssssss,ddd sssssssss ss.,sssssss,ddd-ddd-dddd,ssssssssss,ddd
+788,sssss's sssss ssss,dddd ssssss sss.,sssssss,ddd-ddd-dddd,sssss/ssssss,?
+789,ssssssss sssssss,dddd ssssssss sss.,sssssss,?,?,ddd
+790,ssssss  sss,dd s. sssssss ss. ss,sssssss,?,ssssss ssssss,?
+791,sssss & ssss's sssssss sssssss,ddd ddss ss.,sssssss,ddd-ddd-dddd,ssssssss/ssss,?
+792,ssssssss's ssssssssss,dddd s. sssss sssss,sssssss,?,?,ddd
+793,ssssssssss ssss,dddd sssssssss ss.,sssssss,ddd-ddd-dddd,ssssssssss,ddd
+794,ssss sssssssss,dddd sssssss ss.,sssssss,?,?,ddd
+795,sssss,dddd sssss sssss ss.,?,ddd-ddd-dddd,ssssssss (sss),ddd
+796,sssss's,dddd ssss ssss. ss,?,ddd-ddd-dddd,ssssssssss,ddd
+797,sssss's ssssss,dddd ssssss sssss ss.,ssssssss,ddd-ddd-dddd,?,ddd
+798,sssss,dd s. sssss sssss ss.,sssssss,?,sssssssssss,ddd
+799,ssssssss,dddd sssssss ss.,sssssss,?,sssssss,ddd
+800,ssssss ssssss's ssssssss ssssssssss,dddd ssssssss sss. ss,sssssss,ddd-ddd-dddd,ssssssss/ssss,ddd
+801,ssss,ddd sssss ss ssss sss.,sssssss,?,?,ddd
+802,ssssss sssssss  sss,dddd ssssssss sss.,?,?,ssssssss,ddd
+803,ssssssssss,dddd sssssssss ss. ss,?,ddd-ddd-dddd,?,ddd
+804,sssssssss's,dddd sssss ss.,?,ddd-ddd-dddd,ssssssss/ssss,ddd
+805,ssssss's ssssssss,ddd sssssssss ssss.,sssssss,?,?,ddd
+806,ssssss ssssssss ssss,dddd ssssss sss.,?,ddd-ddd-dddd,sssss,ddd
+807,sssss ss ssss,dddd ssss ssss.,ssssss,ddd-ddd-dddd,?,ddd
+808,ssssss ssssssss,dddd sssssssss ssss.,ssssss,ddd-ddd-dddd,ssssss,?
+809,ssss ssss,ddd sssss ss ssss sss.,sssssss,ddd-ddd-dddd,?,ddd
+810,ssssss sssssss (ss),dddd ssss ssss.,sssssss,ddd-ddd-dddd,ssssssss,ddd
+811,ssss's ssssss sssss,dddd sssssssss ss.,sssssss,ddd-ddd-dddd,ssssssssssss,ddd
+812,ss sssss ssssss,dddd sssssss ss.,?,ddd-ddd-dddd,?,ddd
+813,sssssss ssssssss sss (ss),dddd ssss ssss.,?,ddd-ddd-dddd,ssssssssss,?
+814,ssssssss,dddd sssss ss ssss sss.,sssssss,?,?,ddd
+815,ssssss's ss sssssss (sssssss),ddd sssssssss ss. ss,sssssss,?,sssssssssss,ddd
+816,ss ssss,dddd sssssssss ss.,?,?,ssss,ddd
+817,ssss,dddd sssssssss ss.,sssssss,ddd-ddd-dddd,?,ddd
+818,sssss ssssss sssssss,dddd sssssssssssss sss. ss,sssssss,ddd-ddd-dddd,sssssss,?
+819,ssssssss sssssss sssss (ss),dddd sssssssss ss.,sssssss,ddd-ddd-dddd,ssssssss,?
+820,ssss  sss (sssssss),dddd sssssssss ss. ss,?,ddd-ddd-dddd,sssssssssss,ddd
+821,sssssss ssssssssss,dddd s. sssssss ss.,sssssss,ddd-ddd-dddd,ssssssssss,?
+822,ssss-sssssss ssss (sssssss),ddd sssssssss ss.,sssssss,ddd-ddd-dddd,ssssssss (sss),ddd
+823,sssssss,ddd s. sssss sssss ss.,?,ddd-ddd-dddd,sssssssssssss,ddd
+824,ssssss sssssss  sss,ddd ddss ss. ss,sssssss,?,ssssss sssss,?
+825,ssss,dddd ssssssss ss.,sssssss,ddd-ddd-dddd,?,ddd
+826,ssssss's sssssss,ddd ssssssss ss. ss,?,ddd-ddd-dddd,ssssssssss,ddd
+827,sssssssss,ddd sssss ss ssss sss. ss,sssssss,ddd-ddd-dddd,sss-sss,ddd
+828,sss ssss's ssssssssss & sss,dd s. ssssssssss ss.,sssssss,?,?,?
+829,ssssssssss,ddd sssss sssssss ssssss,sssssss,ddd-ddd-dddd,?,ddd
+830,sssss sssss ssssssssss,dddd sssssssss ss. ss,?,ddd-ddd-dddd,ssssss,ddd
+831,sss-s-sss,dddd sss ssssssss sss.,sssssss ssss,ddd-ddd-dddd,ssss,ddd
+832,ssss's sssss,dddd sssssss ss.,?,ddd-ddd-dddd,?,ddd
+833,ssss sssss,dddd ssssss ss.,sss sssssssss,?,sssssssssss,ddd
+834,sssss sssss,ddd ssssssss sss.,sss sssssssss,?,sssssssssss,?
+835,sssss sssss,ddd ssssssss sss.,?,ddd-ddd-dddd,sssssss,?
+836,sss sss sss's,dddd ssssss ss.,sss sssssssss,ddd-ddd-dddd,?,ddd
+837,ssssss's,dddd sssss ss.,?,ddd-ddd-dddd,ssssssss,?
+838,ssssss's ssss ssss ssss,ddd sssss ss.,?,ddd-ddd-dddd,ssssss,?
+839,sssss ssss,dddd sssssss ss.,sss sssssssss,ddd-ddd-dddd,ssss,ddd
+840,sssss,dddd sssss sss.,sss sssssssss,?,ssssssss,ddd
+841,sssssss ssssss ssssssssss,dddd ssssssssss ss.,sss sssssssss,?,ssssssssss,ddd
+842,ssss's sssssss ssssssssss,dddd ssssss ss.,sss sssssssss,ddd-ddd-dddd,sssssss,?
+843,sssssssss ssss's,dddd ssssss ss.,sss sssssssss,ddd-ddd-dddd,ssssssssss,ddd
+844,sssss's ss sssssss,ddd ssss ss.,sss sssssssss,ddd-ddd-dddd,sssssssssss,ddd
+845,ss ssssss,ddd ssssssss ss.,sss sssssssss,ddd-ddd-dddd,sssssss,ddd
+846,ss ssssssssssss,ddd sss ss.,sss sssssssss,?,sssssssssssss,?
+847,ss ssssssss,dddd sssssss ss.,sss sssssssss,ddd-ddd-dddd,sssssss,ddd
+848,sssss's ssssssss sssss sssss ssss,dddd ssss ss.,sss sssssssss,ddd-ddd-dddd,sssssss,ddd
+849,ssssss ssss,dddd ssssss ss.,sss sssssssss,ddd-ddd-dddd,ssss,ddd
+850,sss's sssss-ss,dddd sssss ss.,sss sssssssss,ddd-ddd-dddd,?,ddd
+851,ss's sssssss,dddd sssss ss.,sss sssssssss,ddd-ddd-dddd,ssssssssss,ddd
+852,sssss ssss sssssssss ssssssssss,ddd ssssss ss.,sss sssssssss,ddd-ddd-dddd,sssssssss,?
+853,sssssssss ssssss ssssss,dddd ddss ss.,sss sssssssss,ddd-ddd-dddd,sssssss,ddd
+854,sssss's ssss & ssssss,ddd ss ssss ss.,sss sssssssss,ddd-ddd-dddd,ssssssss,ddd
+855,sss sssssssss sss,dddd ddss ss.,?,ddd-ddd-dddd,ssss,ddd
+856,sssssss ssss,ddd ssssssss ss.,?,?,ssssssssss,ddd
+857,ssss ssssss sssss,dddd ssss ss.,sss sssssssss,ddd-ddd-dddd,sssssss,ddd
+858,ssss ssssss,ddd ssssss ss.,?,ddd-ddd-dddd,ssss,?
+859,ss ssss,dddd ddss ss.,?,ddd-ddd-dddd,ssssss,ddd
+860,ssss ssss,dddd ssssssss ss.,sss sssssssss,ddd-ddd-dddd,?,ddd
+861,ss sss,d sssss ss.,sss sssssssss,ddd-ddd-dddd,ssssssssss,ddd
+862,ssssss ssssssss,ddd sss ss.,sss sssssssss,?,sssss,ddd
+863,ss-ss-ss ssssss sssssss sssss,dddd ssss ss.,sss sssssssss,ddd-ddd-dddd,sssssss,ddd

@@ -1,0 +1,8 @@
+Table Name,Attribute Name,DMV,Frequency,Detecting Tool
+flights-dirty,Source,CO,527,SYN
+flights-dirty,Source,world-flight-tracker,1791,SYN
+flights-dirty,Flight,AA-3-JFK-LAX,750,SYN
+flights-dirty,ScheduledDeparture,12/5/11 1:45 PM (+08:00),4,SYN
+flights-dirty,ArrivalGate,�,15,SYN
+flights-dirty,DepartureGate,-,534,SYN
+flights-dirty,ArrivalGate,-,681,SYN

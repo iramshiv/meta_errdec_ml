@@ -1,0 +1,10 @@
+Table Name,Attribute Name,DMV,Frequency,Detecting Tool
+diabetes_pk,Number of times pregnant,10,24,Rand
+diabetes_pk,Diastolic blood pressure,0,35,Rand
+diabetes_pk,Triceps skin fold thickness,0,227,Rand
+diabetes_pk,2-Hour serum insulin,0,374,Rand
+diabetes_pk,Plasma glucose concentration,0,5,SYN
+diabetes_pk,Triceps skin fold thickness,7,2,SYN
+diabetes_pk,Triceps skin fold thickness,8,2,SYN
+diabetes_pk,Body mass index,0.0,11,SYN
+diabetes_pk,Number of times pregnant,0,111,OD

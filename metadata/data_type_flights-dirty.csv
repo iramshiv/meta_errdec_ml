@@ -1,0 +1,2 @@
+RowId,Source,Flight,ScheduledDeparture,ActualDeparture,DepartureGate,ScheduledArrival,ActualArrival,ArrivalGate
+integer,AlphaNum,AlphaNum,DateTime,DateTime,AlphaNum,DateTime,DateTime,AlphaNum

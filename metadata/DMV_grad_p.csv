@@ -1,0 +1,4 @@
+Table Name,Attribute Name,DMV,Frequency,Detecting Tool
+grad_p,AP Test Takers,s,25,Rand
+grad_p,Total Exams Taken,s,25,Rand
+grad_p,Number of Exams with scores 3 4 or 5,s,107,Rand

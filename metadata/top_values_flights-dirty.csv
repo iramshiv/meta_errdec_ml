@@ -1,0 +1,6 @@
+RowId,Source,Flight,ScheduledDeparture,ActualDeparture,DepartureGate,ScheduledArrival,ActualArrival,ArrivalGate
+1,boston,UA-382-IAD-LAX,7:10 AM_ Jan 03,Not Available,3,10:30 PM_ Dec 07,Not Available,6
+2,airtravelcenter,AA-1733-ORD-PHX,7:45 PM_ Dec 14,12:36 PMJan 01,5,10:30 PM_ Dec 14,Dec 07 - Contact Airline,A49
+3,orbitz,UA-248-PHX-ORD,7:45 PM_ Dec 07,7:57 PM_ Dec 18,A29,10:30 PM_ Dec 26,Dec 02 - Contact Airline,Terminal 3
+4,myrateplan,AA-204-LAX-MCO,7:45 PM_ Dec 08,7:55 PM_ Dec 08,1,10:30 PM_ Dec 18,7:43 PMDec 28,16
+5,helloflight,AA-3823-LAX-DEN,7:45 PM_ Dec 10,7:57 PM_ Dec 10,C27,10:30 PM_ Dec 12,2:44 PMDec 05,39
