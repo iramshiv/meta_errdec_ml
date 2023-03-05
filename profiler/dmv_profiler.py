@@ -15,11 +15,6 @@ def dmv_profiler(db_filename, odf, ccc):
     full_path = os.getcwd()
     c = os.system(f"C:/cygwin64/bin/bash --login -c 'cd C:/Users/Sethu/PycharmProjects/errorDetection_Metadata/profiler"
                   f"/FAHES_Code/src; " f" make; ./FAHES ../../../data/{db_filename}.csv ../../../metadata/ 4;'")
-    try:
-        os.close(c)
-    except OSError:
-        print('error')
-
 
     print("The time for DMV detection is :", timeit.default_timer() - starttime, '\n')
     pathfile = f'./metadata/DMV_{db_filename}.csv'
